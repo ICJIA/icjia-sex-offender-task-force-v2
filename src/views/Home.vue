@@ -204,7 +204,7 @@
 
         </div>
         <div class="col-md-6">
-          Members col 2
+          Members second column
 
         </div>
       </div>

@@ -1,0 +1,359 @@
+<template>
+<div class="page">
+  <section id="hero">
+    <div class="hero hidden-xs-down">
+      <div class="container caption">
+        <h1 class="light">ILLINOIS SEX OFFENSES & OFFENDER<br/>REGISTRATION TASK FORCE</h1>
+        <button type="button" id="scroll-button" class="btn btn-primary button-spacer">Find out more</button>
+        <!-- <button type="button" id="scroll-button" class="btn btn-primary button-spacer">Sign up for our mailing list</button> -->
+      </div>
+    </div>
+  </section>
+  <section id="about" class="text-section">
+    <!-- TEMPLATE START -->
+    <div class="container">
+      <div class="section-header text-center wsub">
+        <h2 class="upper">About the Task Force</h2>
+      </div>
+      <!-- <p class="title-desc text-center">
+            Proin malesuada commodo magna, eu porta nulla luctus id. Integer bibendum dolor id mi dignissim pulvinar. Proin tincidunt elit in augue congue efficitur.
+            </p> -->
+      <p class="text-section-spacer"> In 2016, Illinois created the Sex Offenses and Sex Offender Registration Task Force.
+        <p>By statute, the Task Force was given the following mandates:</p>
+        <ul>
+          <li> To "examine current offenses that require offenders to register as sex offenders, the current data and research regarding evidence based practices, the conditions, restrictions, and outcomes for registered sex offenders, and the registration
+            process."</li>
+          <li>To "hold public hearings at the call of the co-chairpersons to receive testimony from the public and make recommendations to the General Assembly regarding legislative changes to more effectively classify sex offenders based on their level of
+            risk of re-offending, better direct resources to monitor the most violent and high risk offenders, and to ensure public safety."</li>
+          <li>To issue a written report of findings and recommendations to the General Assembly on or before January 1, 2018.</li>
+        </ul>
+        <p class="spacer">Public Act 099-0873 is available at <a href="http://ilga.gov/legislation/publicacts/fulltext.asp?Name=099-0873" target="_blank">http://ilga.gov/legislation/publicacts/fulltext.asp?Name=099-0873</a></p>
+    </div>
+  </section>
+  <section id="members" class="text-section">
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h3 class="section-heading hrule">Members</h3>
+          <p>The Task Force shall be an independent Task Force under the Illinois Criminal Justice Information Authority for administrative purposes, and shall consist of the following members:</p>
+        </div>
+
+      </div>
+      <div class="row">
+        <div class="col-md-6">
+
+
+          <ol class="memberList">
+            <li>
+              <div class="title">The Executive Director of the Illinois Criminal Justice Information Authority:</div>
+              <div class="name-actual">John Maki</div>
+              <div class="position-actual">Executive Director</div>
+              <div class="agency-actual">Illinois Criminal Justice Information Authority</div>
+            </li>
+
+
+            <li>
+              <div class="title">The Director of Corrections, or his or her designee:</div>
+              <div class="name italicize">John Baldwin</div>
+              <div class="position italicize">Director</div>
+              <div class="agency italicize">Illinois Department of Corrections</div>
+
+              <div class="designee">Designee:</div>
+              <div class="name-actual">Alyssa Williams-Schafer</div>
+              <div class="position-actual">Public Services Administrator</div>
+              <div class="agency-actual">Illinois Department of Corrections</div>
+
+            </li>
+
+
+            <li>
+              <div class="title">The Director of Juvenile Justice, or his or her designee:</div>
+
+              <div class="name-actual">Heidi E. Mueller</div>
+              <div class="position-actual">Acting Director</div>
+              <div class="agency-actual">Illinois Department of Juvenile Justice</div>
+
+            </li>
+
+
+
+            <li>
+              <div class="title">2 members of the House of Representatives appointed by the Speaker of the House of Representatives, one of whom shall serve as co-chairperson:</div>
+
+              <div class="name-actual">Elgie R. Sims, Jr.</div>
+              <div class="position-actual">State Representative</div>
+              <div class="agency-actual">34th District</div>
+
+              <div class="name-actual second">Elaine Nekritz</div>
+              <div class="position-actual">State Representative</div>
+              <div class="agency-actual">57th District</div>
+
+            </li>
+
+
+            <li>
+              <div class="title">2 members of the Senate appointed by the President of the Senate, one of whom shall serve as a co-chairperson:</div>
+
+              <div class="name-actual vacant">VACANT</div>
+
+              <div class="name-actual second vacant">VACANT</div>
+
+
+            </li>
+
+
+            <li>
+              <div class="title">A member of the Senate appointed by the Minority Leader of the Senate:</div>
+
+              <div class="name-actual">John Cabello</div>
+              <div class="position-actual">State Representative</div>
+              <div class="agency-actual">68th District</div>
+
+            </li>
+
+
+            <li>
+              <div class="title">The Director of State Police, or his or her designee:</div>
+              <div class="name italicize">Leo Schmitz</div>
+              <div class="position italicize">Director</div>
+              <div class="agency italicize">Illinois State Police</div>
+
+              <div class="designee">Designee:</div>
+              <div class="name-actual">Tracie Newton</div>
+              <div class="position-actual">Offender Registration Unit</div>
+              <div class="agency-actual">Illinois State Police</div>
+
+            </li>
+
+
+
+            <li>
+              <div class="title">The Superintendent of the Chicago Police Department, or his or her designee:</div>
+              <div class="name italicize">Eddie Johnson</div>
+              <div class="position italicize">Superintendent of Police</div>
+              <div class="agency italicize">Chicago Police Department</div>
+
+              <div class="designee">Designee:</div>
+              <div class="name-actual">Deputy Chief Kathleen Boehmer</div>
+              <div class="position-actual">Sergeant Maria L. Jacobson</div>
+              <div class="agency-actual">Chicago Police Department</div>
+
+            </li>
+
+
+
+            <li>
+              <div class="title">The Chairperson of the Juvenile Justice Commission, or his or her designee:</div>
+              <div class="name italicize">Hon. George Timberlake</div>
+              <div class="position italicize">Chair</div>
+              <div class="agency italicize">Illinois Juvenile Justice Commission</div>
+
+              <div class="designee">Designee (co-member):</div>
+              <div class="name-actual">Lisa Jacobs</div>
+              <div class="position-actual">Vice Chair</div>
+              <div class="agency-actual">Illinois Juvenile Justice Commission</div>
+
+            </li>
+
+
+
+            <li>
+              <div class="title">A representative of a statewide organization against sexual assault, appointed by the Executive Director of the Authority:</div>
+
+              <div class="name-actual">Lynne Johnson</div>
+              <div class="position-actual">Policy Director</div>
+              <div class="agency-actual">Chicago Alliance Against Sexual Exploitation (CAASE)</div>
+
+            </li>
+
+            <li>
+              <div class="title">2 academics or researchers who have studied issues related to adult sex offending, appointed by the Executive Director of the Authority:</div>
+
+              <div class="name-actual">Mike Fogel</div>
+              <div class="position-actual">Associate Professor Department of Forensic Psychology</div>
+              <div class="agency-actual">Chicago School of Professional Psychology</div>
+
+              <div class="name-actual second vacant">VACANT</div>
+
+
+            </li>
+
+
+
+            <li>
+              <div class="title">A representative of a legal organization that works with adult sex offenders who focus on the collateral consequences of conviction and registration, appointed by the Executive Director of the Authority:</div>
+
+              <div class="name-actual">Beth Johnson</div>
+              <div class="position-actual">Director, Legal Programs</div>
+              <div class="agency-actual">Cabrini Green Legal Aid</div>
+
+            </li>
+
+
+
+
+
+
+
+
+
+            <ol>
+
+
+
+        </div>
+        <div class="col-md-6">
+          Members col 2
+
+        </div>
+      </div>
+    </div>
+  </section>
+  <section id="meetingDates" class="text-section">
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <h3 class="section-heading hrule">Meeting Dates & Locations</h3>
+        </div>
+        <div class="col-md-6">
+          <h3 class="hrule">Resources</h3>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6">
+        </div>
+        <div class="col-md-6">
+          <div style="height: 500px"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+</template>
+
+<script>
+import metaInfo from 'meta'
+export default {
+
+  mounted() {
+
+    $(function() {
+      $("#scroll-button").click(function() {
+        $('html,body').animate({
+          scrollTop: $("#about").offset().top
+        }, 'slow');
+      });
+    });
+
+  },
+
+
+  data() {
+    return {
+      description: "Illinois Sex Offenders & Offender Registration Task Force.",
+      title: "Illinois Sex Offenders & Offender Registration Task Force",
+      path: this.$route.fullPath
+    }
+  },
+
+  metaInfo() {
+    return {
+      meta: [{
+        vmid: 'description',
+        name: 'description',
+        content: this.description
+      }],
+      title: this.title
+
+    }
+  }
+
+
+}
+</script>
+
+
+<style scoped>
+.hero {
+  background: url('../assets/banner03.jpg') no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  display: table;
+  width: 100%;
+  height: 500px !important;
+}
+
+.hero .container {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  height: 500px
+}
+
+.button-spacer {
+  margin-top: 30px
+}
+
+#meetingDates {
+  background: #ccc;
+  border-top: 1px solid #bbb;
+  border-bottom: 1px solid #bbb
+}
+
+#resources {
+  background: #ccc;
+  border-top: 1px solid #bbb;
+  border-bottom: 1px solid #bbb
+}
+
+ul li {
+  margin-top: 15px
+}
+
+#about {
+  background: #ededed;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee
+}
+
+
+/* Member list styles */
+
+ol.memberList {
+  font-size: 14px;
+}
+
+ol.memberList li {
+  margin-bottom: 25px
+}
+
+.designee {
+  margin-top: 10px;
+  font-weight: 900
+}
+
+.name-actual,
+.position-actual,
+.agency-actual {
+  font-weight: 900
+}
+
+.name-actual,
+.name {
+  margin-top: 5px
+}
+
+.italicize {
+  font-style: italic;
+}
+
+.second {
+  margin-top: 10px
+}
+
+.vacant {}
+</style>

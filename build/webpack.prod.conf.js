@@ -8,6 +8,11 @@ var HtmlWebpackPlugin = require('html-webpack-plugin')
 var ExtractTextPlugin = require('extract-text-webpack-plugin')
 var env = config.build.env
 var CopyWebpackPlugin = require('copy-webpack-plugin')
+var OptimizeCssAssetsPlugin = require('optimize-css-assets-webpack-plugin')
+
+
+
+
 var cwd = (file) => {
   return path.join(process.cwd(), file || '')
 }
@@ -30,6 +35,9 @@ var webpackConfig = merge(baseWebpackConfig, {
     new webpack.DefinePlugin({
       'process.env': env
     }),
+    new OptimizeCssAssetsPlugin({
+       assetNameRegExp: /\.css$/
+ }),
     new webpack.optimize.UglifyJsPlugin({
       compress: {
         warnings: false
@@ -77,7 +85,7 @@ var webpackConfig = merge(baseWebpackConfig, {
       chunks: ['vendor']
     }),
 
-  
+
 // for SPA Netlify deployment
 new CopyWebpackPlugin([
 {

@@ -7,6 +7,10 @@ var baseWebpackConfig = require('./webpack.base.conf')
 var HtmlWebpackPlugin = require('html-webpack-plugin')
 var ExtractTextPlugin = require('extract-text-webpack-plugin')
 var env = config.build.env
+var CopyWebpackPlugin = require('copy-webpack-plugin')
+var cwd = (file) => {
+  return path.join(process.cwd(), file || '')
+}
 
 var webpackConfig = merge(baseWebpackConfig, {
   module: {
@@ -71,7 +75,17 @@ var webpackConfig = merge(baseWebpackConfig, {
     new webpack.optimize.CommonsChunkPlugin({
       name: 'manifest',
       chunks: ['vendor']
-    })
+    }),
+
+  
+// for SPA Netlify deployment
+new CopyWebpackPlugin([
+{
+  from: cwd('./build/_redirects'),
+  // to the root of dist path
+  to: './'
+}
+]),
   ]
 })
 

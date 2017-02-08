@@ -10,7 +10,7 @@ var env = config.build.env
 var CopyWebpackPlugin = require('copy-webpack-plugin')
 var OptimizeCssAssetsPlugin = require('optimize-css-assets-webpack-plugin')
 var Path = require('path')
-var PrerenderSpaPlugin = require('prerender-spa-plugin')
+// var PrerenderSpaPlugin = require('prerender-spa-plugin')
 
 
 
@@ -67,12 +67,12 @@ var webpackConfig = merge(baseWebpackConfig, {
       chunksSortMode: 'dependency'
     }),
 
-    new PrerenderSpaPlugin(
-      // Absolute path to compiled SPA
-      Path.join(__dirname, '../dist'),
-      // List of routes to prerender
-      [ '/' ]
-    ),
+    // new PrerenderSpaPlugin(
+    //   // Absolute path to compiled SPA
+    //   Path.join(__dirname, '../dist'),
+    //   // List of routes to prerender
+    //   [ '/' ]
+    // ),
 
 
     // split vendor js into its own file

@@ -17,14 +17,19 @@ npm run build
 # build for production and display bundle report
 npm run build:report
 
+# build for production and prerender
+npm run build:prerender
+
 ```
 
-## Main Libraries
+## Libraries
 - [Boostrap 4.0.0-alpha.6](https://v4-alpha.getbootstrap.com/getting-started/introduction/)
 - [jQuery 3.11](https://jquery.com/)
 - [Vue 2.1.10](https://vuejs.org/)
 - [Webpack 2.2.1](https://webpack.js.org/)
 - [Vue Webpack template] (https://github.com/vuejs-templates/webpack)
+- [prerender-spa-plugin] (https://github.com/chrisvfritz/prerender-spa-plugin)
+
 
 ## Live Site
-[https://soortf.icjia.cloud](https://soortf.icjia.cloud)
+- [https://soortf.icjia.cloud](https://soortf.icjia.cloud)

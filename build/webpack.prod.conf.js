@@ -55,7 +55,7 @@ var webpackConfig = merge(baseWebpackConfig, {
       filename: config.build.index,
       template: 'index.html',
       bannerVersion: "2.0.0",
-      bannerDate: moment().tz("America/Chicago").format(),
+      bannerDate: moment().tz("America/Chicago").format("dddd, MMMM Do YYYY, h:mm:ss a"),
       bannerGit: "https://github.com/ICJIA/icjia-sex-offender-task-force-v2",
       bannerTitle: "Illinois Sex Offenses and Offender Registration Task Force",
       inject: true,

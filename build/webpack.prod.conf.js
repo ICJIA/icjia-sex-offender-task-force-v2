@@ -54,12 +54,11 @@ var webpackConfig = merge(baseWebpackConfig, {
     new HtmlWebpackPlugin({
       filename: config.build.index,
       template: 'index.html',
-      bannerVersion: "2.0.0",
       bannerDate: moment().tz("America/Chicago").format("dddd, MMMM Do YYYY, h:mm:ss a"),
       bannerGit: "https://github.com/ICJIA/icjia-sex-offender-task-force-v2",
       bannerTitle: "Illinois Sex Offenses and Offender Registration Task Force",
+      bannerContact: "cja.irc@illinois.gov",
       inject: true,
-      version: "2.0.0",
       minify: {
         removeComments: false,
         collapseWhitespace: true,

@@ -274,6 +274,28 @@ Director of the Authority:</div>
             </li>
 
 
+            <li>
+              <div class="title">Two treatment providers who specialize in adult treatment appointed by the Executive Director of the Authority:</div>
+              <div class="name-actual">Gary Lemmon</div>
+              <div class="position-actual">Licensed Clinical Social Worker</div>
+              <div class="agency-actual">(retired from United Methodist Children’s Home, where he was the executive director)</div>
+
+              <div class="name-actual spacer">Becky Palmer</div>
+              <div class="position-actual">Training, Consultation & Treatment</div>
+              <div class="agency-actual">(Formerly the Sr. VP of Clinical at Alternative Behavior Treatment Center)</div>
+            </li>
+
+            <li>
+              <div class="title">A treatment provider who specializes in working with victims of sex offenses, appointed by the Executive
+Director of the Authority:</div>
+
+              <div class="name-actual">Darla Wexstten</div>
+              <div class="position-actual">Clinical Social Worker</div>
+            
+
+            </li>
+
+
 
 
 

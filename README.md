@@ -22,14 +22,14 @@ npm run build:prerender
 
 ```
 
-## Libraries
+## Main dependencies
 - [Boostrap 4.0.0-alpha.6](https://v4-alpha.getbootstrap.com/getting-started/introduction/)
 - [jQuery 3.11](https://jquery.com/)
 - [Vue 2.1.10](https://vuejs.org/)
 - [Webpack 2.2.1](https://webpack.js.org/)
 - [Vue Webpack template] (https://github.com/vuejs-templates/webpack)
 - [prerender-spa-plugin] (https://github.com/chrisvfritz/prerender-spa-plugin)
-
+- [webpack-bundle-analyzer] (https://github.com/th0r/webpack-bundle-analyzer)
 
 ## Live Site
 - [https://soortf.icjia.cloud](https://soortf.icjia.cloud)

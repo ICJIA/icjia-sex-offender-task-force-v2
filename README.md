@@ -1,6 +1,6 @@
-# vue-netlify01
+# ICJIA Sex Offender and Registration Task Force
 
-> A Vue.js project
+> Illinois Criminal Justice Information Authority
 
 ## Build Setup
 
@@ -14,8 +14,17 @@ npm run dev
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
+# build for production and display bundle report
+npm run build:report
+
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Main Libraries
+- [Boostrap 4.0.0-alpha.6](https://v4-alpha.getbootstrap.com/getting-started/introduction/)
+- [jQuery 3.11](https://jquery.com/)
+- [Vue 2.1.10](https://vuejs.org/)
+- [Webpack 2.2.1](https://webpack.js.org/)
+- [Vue Webpack template] (https://github.com/vuejs-templates/webpack)
+
+## Live Site
+[https://soortf.icjia.cloud](https://soortf.icjia.cloud)

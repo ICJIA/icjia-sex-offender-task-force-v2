@@ -31,7 +31,7 @@
 
 
            <a class="btn btn-secondary navbar-toggler-right" id="mailingList" href="https://goo.gl/1RLj1h">
-             <i class="fa fa-envelope-open" aria-hidden="true"></i>&nbsp;&nbsp;Join the Mailing List</a>
+             <i class="fa fa-envelope-open" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Join the Mailing List</a>
 
          <button  class="hamburger hamburger--spin navbar-toggler navbar-toggler-left"
                   type="button"
@@ -105,5 +105,6 @@ a {color: #fff;}
 a:hover {color: #aaa}
 a#mailingList {color: #444;}
 .hamburger {margin-top: -9px}
+#mailingList {text-transform: uppercase; font-weight: 700; font-family: 'Lato', sans-serif; font-size: 14px}
 
 </style>

@@ -26,7 +26,7 @@
      <div class="navbar navbar-light bg-faded" id="navbar">
        <div class="">
          <a href="/" class="navbar-brand"><span id="brand-illinois">ILLINOIS</span><span id="divider">|</span><span id="brand-soort">Sex Offenses & Offender Registration Task Force<span></a>
-           <button class="btn btn-secondary navbar-toggler-right" id="mailingList">Join the Mailing List</button>
+           <button class="btn btn-secondary navbar-toggler-right" id="mailingList"><i class="fa fa-envelope-open" aria-hidden="true"></i>&nbsp;&nbsp;Join the Mailing List</button>
 
          <button  class="hamburger hamburger--spin navbar-toggler navbar-toggler-left"
                   type="button"

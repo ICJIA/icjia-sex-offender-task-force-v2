@@ -24,9 +24,9 @@
        </div>
      </div>
      <div class="navbar navbar-light bg-faded" id="navbar">
-       <div class="" style="margin-left: 85px;">
+       <div class="">
          <a href="/" class="navbar-brand"><span id="brand-illinois">ILLINOIS</span><span id="divider">|</span><span id="brand-soort">Sex Offenses & Offender Registration Task Force<span></a>
-           <button class="btn btn-secondary navbar-toggler-right">Join the Mailing List</button>
+           <button class="btn btn-secondary navbar-toggler-right" id="mailingList">Join the Mailing List</button>
 
          <button  class="hamburger hamburger--spin navbar-toggler navbar-toggler-left"
                   type="button"
@@ -101,5 +101,5 @@ a:hover {color: #aaa}
 .hamburger {margin-top: -9px}
 .bg-about-icjia {background-color: #141414}
 #navbarHeader {padding-top: 20px; padding-bottom: 20px}
-
+.navbar-brand {margin-left: 80px;}
 </style>

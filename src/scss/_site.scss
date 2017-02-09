@@ -157,11 +157,19 @@ button:focus {
     text-transform: uppercase
 }
 // Navbar breakpoints //////////////////////////////////////////////////////
-// @include media-breakpoint-down(sm) {
-//     .hamburger {
-//         display: none;
-//     }
-//     .navbar-brand {
-//         font-size: 11px;
-//     }
-// }
+
+@include media-breakpoint-down(md) {
+
+    #mailingList {display: none}
+
+}
+@include media-breakpoint-down(sm) {
+    .hamburger {
+        display: none;
+    }
+    #mailingList {display: none}
+    .navbar-brand {
+        font-size: 11px;
+        margin-left: 0;
+    }
+}

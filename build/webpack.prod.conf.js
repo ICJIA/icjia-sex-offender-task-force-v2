@@ -10,7 +10,6 @@ var env = config.build.env
 var CopyWebpackPlugin = require('copy-webpack-plugin')
 var OptimizeCssAssetsPlugin = require('optimize-css-assets-webpack-plugin')
 var Path = require('path')
-
 var PrerenderSpaPlugin = require('prerender-spa-plugin')
 
 
@@ -54,9 +53,14 @@ var webpackConfig = merge(baseWebpackConfig, {
     new HtmlWebpackPlugin({
       filename: config.build.index,
       template: 'index.html',
+      bannerVersion: "2.0.0",
+      bannerDate: new Date(),
+      bannerGit: "https://github.com/ICJIA/icjia-sex-offender-task-force-v2",
+      bannerTitle: "Illinois Sex Offenses and Offender Registration Task Force",
       inject: true,
+      version: "2.0.0",
       minify: {
-        removeComments: true,
+        removeComments: false,
         collapseWhitespace: true,
         removeAttributeQuotes: true
         // more options:
@@ -99,6 +103,14 @@ new CopyWebpackPlugin([
   to: './'
 }
 ]),
+
+
+
+
+
+
+
+
   ]
 })
 

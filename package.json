@@ -6,7 +6,7 @@
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
-    "build": "node build/build.js && npm run clean",
+    "build": "node build/build.js",
     "build:report": "npm run build --report",
     "build:prerender": "npm run build --prerender",
     "start": "node build/build.js",

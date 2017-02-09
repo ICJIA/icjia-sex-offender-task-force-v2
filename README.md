@@ -14,7 +14,7 @@ npm run dev
 # build for production with minification
 npm run build
 
-# build for production and display bundle report
+# build for production and report bundle sizes
 npm run build:report
 
 # build for production and prerender

@@ -79,13 +79,13 @@
 
 
             <li>
-              <div class="title">2 members of the House of Representatives appointed by the Speaker of the House of Representatives, one of whom shall serve as co-chairperson:</div>
+              <div class="title">Two members of the House of Representatives appointed by the Speaker of the House of Representatives, one of whom shall serve as co-chairperson:</div>
 
               <div class="name-actual">Elgie R. Sims, Jr.</div>
               <div class="position-actual">State Representative</div>
               <div class="agency-actual">34th District</div>
 
-              <div class="name-actual second">Elaine Nekritz</div>
+              <div class="name-actual spacer">Elaine Nekritz</div>
               <div class="position-actual">State Representative</div>
               <div class="agency-actual">57th District</div>
 
@@ -93,7 +93,7 @@
 
 
             <li>
-              <div class="title">2 members of the Senate appointed by the President of the Senate, one of whom shall serve as a co-chairperson:</div>
+              <div class="title">Two members of the Senate appointed by the President of the Senate, one of whom shall serve as a co-chairperson:</div>
 
               <div class="name-actual vacant">VACANT</div>
 
@@ -168,7 +168,7 @@
             </li>
 
             <li>
-              <div class="title">2 academics or researchers who have studied issues related to adult sex offending, appointed by the Executive Director of the Authority:</div>
+              <div class="title">Two academics or researchers who have studied issues related to adult sex offending, appointed by the Executive Director of the Authority:</div>
 
               <div class="name-actual">Mike Fogel</div>
               <div class="position-actual">Associate Professor Department of Forensic Psychology</div>
@@ -191,20 +191,94 @@
             </li>
 
 
+            <li>
+              <div class="title"> A representative of a statewide organization
+                representing probation and court services agencies in this State,
+                appointed by the Executive Director of the Authority:</div>
 
+              <div class="name-actual">Michael J. Tardy</div>
+              <div class="position-actual">Director</div>
+              <div class="agency-actual">Administrative Office of the Illinois Courts (AOIC)</div>
 
-
-
-
-
+            </li>
 
             <ol>
 
 
 
         </div>
+
+        <!-- Start second column -->
+
+
+
         <div class="col-md-6">
-          Members second column
+          <ol class="memberList" start="14">
+
+            <li>
+              <div class="title"> A representative of a statewide organization
+                representing probation and court services agencies in this State,
+                appointed by the Executive Director of the Authority:</div>
+
+              <div class="name-actual">Michael J. Tardy</div>
+              <div class="position-actual">Director</div>
+              <div class="agency-actual">Administrative Office of the Illinois Courts (AOIC)</div>
+
+            </li>
+
+
+
+            <li>
+              <div class="title">A representative of a statewide organization
+                representing Illinois sheriffs, appointed by the Executive Director ofthe Authority:</div>
+
+              <div class="name-actual">Greg Sullivan</div>
+              <div class="position-actual">Executive Director</div>
+              <div class="agency-actual">Illinois Sheriff Association</div>
+
+            </li>
+
+
+            <li>
+              <div class="title">A representative of a statewide organization representing Illinois police chiefs, appointed by the Executive
+Director of the Authority:</div>
+
+              <div class="name-actual">Greg Sullivan</div>
+              <div class="position-actual">Executive Director</div>
+              <div class="agency-actual">Illinois Sheriff Association</div>
+
+            </li>
+
+
+            <li>
+              <div class="title">Two State's Attorneys to be appointed by the Executive Director of the Authority:</div>
+
+              <div class="name italicize">Kim Foxx</div>
+              <div class="position italicize">State’s Attorney</div>
+              <div class="agency italicize">Cook County</div>
+
+              <div class="designee">Designees:</div>
+              <div class="name-actual">Jennifer Gonzalez</div>
+              <div class="position-actual">Supervisor of the Sexual Assault and Domestic Violence Division</div>
+              <div class="agency-actual">Cook County State’s Attorneys’ Office</div>
+
+              <div class="name-actual spacer">Mary Boland</div>
+              <div class="position-actual">Assistant State’s Attorney</div>
+              <div class="agency-actual">Cook County State’s Attorneys’ Office</div>
+
+              <div class="name-actual spacer">Jason Chambers</div>
+              <div class="position-actual">State’s Attorney</div>
+              <div class="agency-actual">McLean County</div>
+
+
+            </li>
+
+
+
+
+
+
+          </ol>
 
         </div>
       </div>
@@ -231,7 +305,8 @@
     </div>
   </section>
 </div>
-</template>
+
+ </template>
 
 <script>
 import metaInfo from 'meta'
@@ -356,4 +431,6 @@ ol.memberList li {
 }
 
 .vacant {}
+
+  .spacer {margin-top: 15px}
 </style>

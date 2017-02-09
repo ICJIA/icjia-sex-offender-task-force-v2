@@ -291,7 +291,65 @@ Director of the Authority:</div>
 
               <div class="name-actual">Darla Wexstten</div>
               <div class="position-actual">Clinical Social Worker</div>
-            
+
+
+            </li>
+
+
+
+            <li>
+              <div class="title">Two representatives from community-based organizations that work with adults convicted of sex offenses on re-
+entry appointed by the Executive Director of the Authority:</div>
+
+<div class="name-actual">Tony Lowery</div>
+<div class="position-actual">Director of Policy & Advocacy</div>
+<div class="agency-actual">Safer Foundation</div>
+
+<div class="name-actual spacer">Mike Davis</div>
+<div class="position-actual">Associate Executive Director Prisoner and Family Ministry</div>
+
+
+            </li>
+
+
+            <li>
+              <div class="title">A representative of a statewide organization that represents or coordinates services for victims of sex offenses,
+appointed by the Executive Director of the Authority:</div>
+
+              <div class="name-actual">Polly Poskin</div>
+              <div class="position-actual">Executive Director</div>
+              <div class="agency-actual">Illinois Coalition Against Sexual Assault</div>
+
+            </li>
+
+
+            <li>
+              <div class="title">A representative of a statewide organization that represents or is comprised of individuals convicted as adults of
+a sex offense who are currently on a registry, appointed by the Executive Director of the Authority:</div>
+
+              <div class="name-actual">VACANT</div>
+
+
+            </li>
+
+
+            <li>
+              <div class="title">A public defender to be appointed by the Executive Director of the Authority:</div>
+
+              <div class="name-actual">Amy Campanelli</div>
+              <div class="position-actual">Public Defender</div>
+              <div class="agency-actual">Cook County</div>
+
+            </li>
+
+
+
+            <li>
+              <div class="title">An appellate defender to be appointed by the Executive Director of the Authority:</div>
+
+              <div class="name-actual">Jacqueline Bullard</div>
+              <div class="position-actual">Deputy Defender</div>
+              <div class="agency-actual">4th Judicial Circuit</div>
 
             </li>
 

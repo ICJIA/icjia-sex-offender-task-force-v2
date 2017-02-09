@@ -156,6 +156,13 @@ button:focus {
     font-weight: 400;
     text-transform: uppercase
 }
+
+
+.bg-about-icjia {background-color: #141414}
+#navbarHeader {padding-top: 20px; padding-bottom: 20px}
+.navbar-brand {margin-left: 80px;}
+
+
 // Navbar breakpoints //////////////////////////////////////////////////////
 
 @include media-breakpoint-down(md) {

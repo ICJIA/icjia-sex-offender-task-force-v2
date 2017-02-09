@@ -17,7 +17,9 @@
                <li><a href="http://www.icjia.state.il.us" class="text-white">Visit website</a></li>
                <li><a href="https://twitter.com/icjia_illinois?lang=en" class="text-white">Follow on Twitter</a></li>
                <li><a href="https://www.facebook.com/ICJIA/" class="text-white">Like on Facebook</a></li>
-               <li><a href="mailto: cja.irc@illinois.gov" class="text-white">Contact us</a></li>
+               <li><a href="https://www.youtube.com/channel/UCtZMzk8D3P4OixYTwsfPeKA" class="text-white">View on YouTube</a></li>
+               <li><a href="https://visitor.r20.constantcontact.com/manage/optin?v=001MqUcqqvjwLCJXlLMSWbTe3zHHmEQgFeBuHvBcJWTbwgrxFbDSGx4HSUPpI6DJWMUPgbljtLxffqIcGFTgCnr-auak88ybvRxpoJlTMGPtZs%3D" class="text-white">Join mailing list</a></li>
+               <li><a href="mailto: cja.irc@illinois.gov" class="text-white">Send email</a></li>
              </ul>
            </div>
          </div>
@@ -26,7 +28,10 @@
      <div class="navbar navbar-light bg-faded" id="navbar">
        <div class="">
          <a href="/" class="navbar-brand"><span id="brand-illinois">ILLINOIS</span><span id="divider">|</span><span id="brand-soort">Sex Offenses & Offender Registration Task Force<span></a>
-           <button class="btn btn-secondary navbar-toggler-right" id="mailingList"><i class="fa fa-envelope-open" aria-hidden="true"></i>&nbsp;&nbsp;Join the Mailing List</button>
+
+
+           <a class="btn btn-secondary navbar-toggler-right" id="mailingList" href="https://goo.gl/1RLj1h">
+             <i class="fa fa-envelope-open" aria-hidden="true"></i>&nbsp;&nbsp;Join the Mailing List</a>
 
          <button  class="hamburger hamburger--spin navbar-toggler navbar-toggler-left"
                   type="button"
@@ -98,8 +103,7 @@ export default {
 <style scoped>
 a {color: #fff;}
 a:hover {color: #aaa}
+a#mailingList {color: #444;}
 .hamburger {margin-top: -9px}
-.bg-about-icjia {background-color: #141414}
-#navbarHeader {padding-top: 20px; padding-bottom: 20px}
-.navbar-brand {margin-left: 80px;}
+
 </style>

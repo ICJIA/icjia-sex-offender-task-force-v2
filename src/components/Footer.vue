@@ -7,7 +7,7 @@
           <div class="footer-text">© {{getFullYear()}}
             <a href="">Illinois Criminal Justice Information Authority</a>
             &nbsp;&nbsp;|&nbsp;&nbsp;<i class="fa fa-envelope-open" aria-hidden="true"></i>
-              &nbsp;&nbsp;<a href="">Join the Task Force Mailing List</a>&nbsp;&nbsp;|
+              &nbsp;&nbsp;<a href="https://goo.gl/1RLj1h">Join the Task Force Mailing List</a>&nbsp;&nbsp;|
               &nbsp;&nbsp;<i class="fa fa-github" aria-hidden="true"></i>
                 &nbsp;&nbsp;<a href="https://github.com/ICJIA/icjia-sex-offender-task-force-v2">View on GitHub</a></div>
         </div>

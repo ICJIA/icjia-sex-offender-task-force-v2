@@ -8,6 +8,7 @@
     "dev": "node build/dev-server.js",
     "build": "node build/build.js && npm run clean",
     "build:report": "npm run build --report",
+    "build:prerender": "npm run build --prerender",
     "start": "node build/build.js",
     "clean": "htmlclean ./dist -o ./dist"
   },

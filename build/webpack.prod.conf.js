@@ -11,6 +11,7 @@ var CopyWebpackPlugin = require('copy-webpack-plugin')
 var OptimizeCssAssetsPlugin = require('optimize-css-assets-webpack-plugin')
 var Path = require('path')
 var PrerenderSpaPlugin = require('prerender-spa-plugin')
+var moment = require('moment-timezone');
 
 
 var cwd = (file) => {
@@ -54,7 +55,7 @@ var webpackConfig = merge(baseWebpackConfig, {
       filename: config.build.index,
       template: 'index.html',
       bannerVersion: "2.0.0",
-      bannerDate: new Date(),
+      bannerDate: moment().tz("America/Chicago").format(),
       bannerGit: "https://github.com/ICJIA/icjia-sex-offender-task-force-v2",
       bannerTitle: "Illinois Sex Offenses and Offender Registration Task Force",
       inject: true,

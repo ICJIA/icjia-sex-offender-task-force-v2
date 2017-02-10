@@ -381,13 +381,13 @@
           <div class="meeting">
             <div class="time">January 23, 2017</div>
             <div class="materials">
-              <a href="/static/AGENDA Sex Offenses and Sex Offender Task Force Meeting 1 23 2017.pdf">Agenda</a>
+              <a href="/static/pdf/AGENDA Sex Offenses and Sex Offender Task Force Meeting 1 23 2017.pdf">Agenda</a>
               | <span class="notAvailable">Minutes</span></div>
           </div>
 
           <div class="meeting">
             <div class="time">December 5, 2016</div>
-            <div class="materials"> <a href="/static/AGENDA Sex Offenses and Sex Offender Task Force Meeting 12 5  16.pdf">Agenda</a> | <a href="/static/SO and SOR Task Force meeting minutes Dec 5 2016 rev Jan 12 17.pdf">Minutes</a></div>
+            <div class="materials"> <a href="/static/pdf/AGENDA Sex Offenses and Sex Offender Task Force Meeting 12 5  16.pdf">Agenda</a> | <a href="/static/pdf/SO and SOR Task Force meeting minutes Dec 5 2016 rev Jan 12 17.pdf">Minutes</a></div>
           </div>
 
           </div>
@@ -395,15 +395,15 @@
 
           <ul id="resourceList">
             <li>
-              <div class="title"><a href="/static/SO and SOR Task Force ICJIA POWERPOINT Dec 5 2016.pptx">Sex Offenses and Sex Offender Registration Task Force
+              <div class="title"><a href="/static/powerpoint/SO and SOR Task Force ICJIA POWERPOINT Dec 5 2016.pptx">Sex Offenses and Sex Offender Registration Task Force
   Introduction&nbsp;&raquo;</a></div></li>
   <li>
-    <div class="title"><a href="/static/Juvenile Justice Commission Report Presentation SO Task Force - 2017 Modified.pptx">Improving Illinois’ Response to Sexual Offenses Committed by Youth&nbsp;&raquo;</a></div>
+    <div class="title"><a href="/static/powerpoint/Juvenile Justice Commission Report Presentation SO Task Force - 2017 Modified.pptx">Improving Illinois’ Response to Sexual Offenses Committed by Youth&nbsp;&raquo;</a></div>
   <div class="agency">Illinois Juvenile Justice Commission</div></li>
-  <li><div class="title"><a href="/static/IJJC - Executive Summary updated.pdf">Improving Illinois’ Response to Sexual Sffenses Committed by Youth
+  <li><div class="title"><a href="/static/pdf/IJJC - Executive Summary updated.pdf">Improving Illinois’ Response to Sexual Sffenses Committed by Youth
   Recommendations for Law, Policy and Practice&nbsp;&raquo;</a></div><div class="agency">Illinois Juvenile Justice Commission</div></li>
   <li>
-  <div class="title"><a href="/static/IJJC%20-%20Fact.pdf">FACT SHEET: Research study and recommendations to ensure the effective treatment
+  <div class="title"><a href="/static/pdf/IJJC%20-%20Fact.pdf">FACT SHEET: Research study and recommendations to ensure the effective treatment
   and supervision of juveniles adjudicated delinquent for a sex offense&nbsp;&raquo;</a></div>
   <div class="agency">Illinois Juvenile Justice Commission</div></li>
   </ul>

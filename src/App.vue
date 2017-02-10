@@ -12,10 +12,11 @@ import MyFooter from 'components/Footer'
 import metaInfo from 'meta'
 export default {
   name: 'app',
+  metaInfo,
   components: {
-  Navbar,
-  MyFooter
-}
+    Navbar,
+    MyFooter
+  }
 }
 </script>
 

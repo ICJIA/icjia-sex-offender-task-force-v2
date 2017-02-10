@@ -10,7 +10,14 @@ module.exports = {
       // { rel: 'stylesheet', src: 'https://fonts.googleapis.com/css?family=Lato:400,700,900|Roboto:400,500,700,900' },
       // { rel: 'stylesheet', src: 'https://fonts.googleapis.com/css?family=Montserrat:400,700' },
       // { rel: 'stylesheet', src: 'https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800' },
-      { rel: 'favicon', src: 'favicon.ico' }
+
+    {rel: "icon", type: "image/png", sizes: "192x192",  href: 'http://www.icjia.state.il.us/_themes/icjia/img/icons/android-icon-192x192.png?v=1440170181'},
+    {rel: "icon", type: "image/png", sizes: "32x32",  href: 'http://www.icjia.state.il.us/_themes/icjia/img/icons/favicon-32x32.png?v=1440170181'},
+    {rel: "icon", type: "image/png", sizes: "96x96",  href: 'http://www.icjia.state.il.us/_themes/icjia/img/icons/favicon-96x96.png?v=1440170181'},
+    {rel: "icon", type: "image/png", sizes: "16x16",  href: 'http://www.icjia.state.il.us/_themes/icjia/img/icons/favicon-16x16.png?v=1440170181'}
+
+
+
     ],
     // if no subcomponents specify a metaInfo.title, this title will be used
     title: 'Illinois Sex Offenders & Offender Registration Task Force',

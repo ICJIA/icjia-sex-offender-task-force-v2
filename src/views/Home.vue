@@ -378,13 +378,18 @@ a sex offense who are currently on a registry, appointed by the Executive Direct
       </div>
       <div class="row">
         <div class="col-sm-12 col-md-6">
-          <div class="well">
-            <h4>2017</h4>
-          </div>
+        <div class="meeting">
+          <div class="time">January 23, 2017</div>
+          <div class="materials">
+            <a href="/static/AGENDA Sex Offenses and Sex Offender Task Force Meeting 1 23 2017.pdf">Agenda</a>
+            | <span class="notAvailable">Minutes</span></div>
+        </div>
 
-          <div class="well">
-            <h4>2016</h4>
-          </div>
+        <div class="meeting">
+          <div class="time">December 5, 2016</div>
+          <div class="materials"> <a href="/static/AGENDA Sex Offenses and Sex Offender Task Force Meeting 12 5  16.pdf">Agenda</a> | <a href="/static/SO and SOR Task Force meeting minutes Dec 5 2016 rev Jan 12 17.pdf">Minutes</a></div>
+        </div>
+
         </div>
         <div class="col-sm-12 col-md-6">
 
@@ -453,7 +458,7 @@ export default {
 </script>
 
 
-<style scoped>
+<style >
 .hero {
   background: url('../assets/banner03.jpg') no-repeat center center;
   -webkit-background-size: cover;
@@ -552,5 +557,10 @@ ol.memberList li {
    text-decoration: none;
   }
 
+.meeting {margin-bottom: 30px}
+   .time {font-weight: 700}
+  .materials a {font-size: 13px; text-transform: uppercase; font-weight: 900 !important }
+
+  .notAvailable {font-size: 13px; font-weight: 900; color: #888; text-transform: uppercase}
 
 </style>

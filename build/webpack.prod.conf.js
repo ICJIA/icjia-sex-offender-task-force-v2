@@ -58,6 +58,7 @@ var webpackConfig = merge(baseWebpackConfig, {
       bannerGit: "https://github.com/ICJIA/icjia-sex-offender-task-force-v2",
       bannerTitle: "Illinois Sex Offenses and Offender Registration Task Force",
       bannerContact: "cja.irc@illinois.gov",
+      googleAnalytics: true,
       inject: true,
       minify: {
         removeComments: false,

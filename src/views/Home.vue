@@ -27,21 +27,22 @@
             risk of re-offending, better direct resources to monitor the most violent and high risk offenders, and to ensure public safety."</li>
           <li>To issue a written report of findings and recommendations to the General Assembly on or before January 1, 2018.</li>
         </ul>
-        <p class="spacer">Public Act 099-0873 is available at <a href="http://ilga.gov/legislation/publicacts/fulltext.asp?Name=099-0873" target="_blank">http://ilga.gov/legislation/publicacts/fulltext.asp?Name=099-0873</a></p>
+        <p class="spacer">Public Act 099-0873 is available at <a href="http://ilga.gov/legislation/publicacts/fulltext.asp?Name=099-0873" target="_blank">
+          https://goo.gl/whvww3</a></p>
     </div>
   </section>
   <section id="members" class="text-section">
 
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-sm-12 col-md-12">
           <h3 class="section-heading hrule">Members</h3>
           <p>The Task Force shall be an independent Task Force under the Illinois Criminal Justice Information Authority for administrative purposes, and shall consist of the following members:</p>
         </div>
 
       </div>
       <div class="row">
-        <div class="col-md-6">
+        <div class="col-sm-12 col-md-6">
 
 
           <ol class="memberList">
@@ -212,7 +213,7 @@
 
 
 
-        <div class="col-md-6">
+        <div class="col-sm-12 col-md-6">
           <ol class="memberList" start="14">
 
             <li>
@@ -368,18 +369,40 @@ a sex offense who are currently on a registry, appointed by the Executive Direct
 
     <div class="container">
       <div class="row">
-        <div class="col-md-6">
-          <h3 class="section-heading hrule">Meeting Dates & Locations</h3>
+        <div class="col-sm-12 col-md-6">
+          <h3 class="section-heading hrule">Meetings</h3>
         </div>
-        <div class="col-md-6">
+        <div class="col-sm-12 col-md-6">
           <h3 class="hrule">Resources</h3>
         </div>
       </div>
       <div class="row">
-        <div class="col-md-6">
+        <div class="col-sm-12 col-md-6">
+          <div class="well">
+            <h4>2017</h4>
+          </div>
+
+          <div class="well">
+            <h4>2016</h4>
+          </div>
         </div>
-        <div class="col-md-6">
-          <div style="height: 500px"></div>
+        <div class="col-sm-12 col-md-6">
+
+        <ul id="resourceList">
+          <li>
+            <div class="title"><a href="/static/SO and SOR Task Force ICJIA POWERPOINT Dec 5 2016.pptx">Sex Offenses and Sex Offender Registration Task Force
+Introduction&nbsp;&raquo;</a></div></li>
+<li>
+  <div class="title"><a href="/static/Juvenile Justice Commission Report Presentation SO Task Force - 2017 Modified.pptx">Improving Illinois’ Response to Sexual Offenses Committed by Youth&nbsp;&raquo;</a></div>
+<div class="agency">Illinois Juvenile Justice Commission</div></li>
+<li><div class="title"><a href="/static/IJJC - Executive Summary updated.pdf">Improving Illinois’ Response to Sexual Sffenses Committed by Youth
+Recommendations for Law, Policy and Practice&nbsp;&raquo;</a></div><div class="agency">Illinois Juvenile Justice Commission</div></li>
+<li>
+<div class="title"><a href="/static/IJJC%20-%20Fact.pdf">FACT SHEET: Research study and recommendations to ensure the effective treatment
+and supervision of juveniles adjudicated delinquent for a sex offense&nbsp;&raquo;</a></div>
+<div class="agency">Illinois Juvenile Justice Commission</div></li>
+</ul>
+
         </div>
       </div>
     </div>
@@ -454,13 +477,13 @@ export default {
 }
 
 #meetingDates {
-  background: #ccc;
+  background: #eee;
   border-top: 1px solid #bbb;
   border-bottom: 1px solid #bbb
 }
 
 #resources {
-  background: #ccc;
+  background: #eee;
   border-top: 1px solid #bbb;
   border-bottom: 1px solid #bbb
 }
@@ -513,4 +536,21 @@ ol.memberList li {
 .vacant {}
 
   .spacer {margin-top: 15px}
+
+  #resourceList li {margin-bottom: 35px}
+  #resourceList li .title {font-weight: 700 }
+
+  .title a {
+
+   color: #000;
+   -webkit-transition: color 150ms ease-in; /*safari and chrome */
+   -o-transition: color 150ms ease-in; /* opera */
+  }
+
+  a:hover, .title a:hover {
+   color: #888;
+   text-decoration: none;
+  }
+
+
 </style>

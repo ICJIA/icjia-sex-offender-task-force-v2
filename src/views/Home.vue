@@ -56,9 +56,9 @@
 
               <li>
                 <div class="title">The Director of Corrections, or his or her designee:</div>
-                <div class="name italicize">John Baldwin</div>
-                <div class="position italicize">Director</div>
-                <div class="agency italicize">Illinois Department of Corrections</div>
+                <div class="name strong">John Baldwin</div>
+                <div class="position strong">Director</div>
+                <div class="agency strong">Illinois Department of Corrections</div>
 
                 <div class="designee">Designee:</div>
                 <div class="name-actual">Alyssa Williams-Schafer</div>
@@ -116,9 +116,9 @@
 
               <li>
                 <div class="title">The Director of State Police, or his or her designee:</div>
-                <div class="name italicize">Leo Schmitz</div>
-                <div class="position italicize">Director</div>
-                <div class="agency italicize">Illinois State Police</div>
+                <div class="name strong">Leo Schmitz</div>
+                <div class="position strong">Director</div>
+                <div class="agency strong">Illinois State Police</div>
 
                 <div class="designee">Designee:</div>
                 <div class="name-actual">Tracie Newton</div>
@@ -131,9 +131,9 @@
 
               <li>
                 <div class="title">The Superintendent of the Chicago Police Department, or his or her designee:</div>
-                <div class="name italicize">Eddie Johnson</div>
-                <div class="position italicize">Superintendent of Police</div>
-                <div class="agency italicize">Chicago Police Department</div>
+                <div class="name strong">Eddie Johnson</div>
+                <div class="position strong">Superintendent of Police</div>
+                <div class="agency strong">Chicago Police Department</div>
 
                 <div class="designee">Designee:</div>
                 <div class="name-actual">Deputy Chief Kathleen Boehmer</div>
@@ -146,9 +146,9 @@
 
               <li>
                 <div class="title">The Chairperson of the Juvenile Justice Commission, or his or her designee:</div>
-                <div class="name italicize">Hon. George Timberlake</div>
-                <div class="position italicize">Chair</div>
-                <div class="agency italicize">Illinois Juvenile Justice Commission</div>
+                <div class="name strong">Hon. George Timberlake</div>
+                <div class="position strong">Chair</div>
+                <div class="agency strong">Illinois Juvenile Justice Commission</div>
 
                 <div class="designee">Designee (co-member):</div>
                 <div class="name-actual">Lisa Jacobs</div>
@@ -254,9 +254,9 @@
               <li>
                 <div class="title">Two State's Attorneys to be appointed by the Executive Director of the Authority:</div>
 
-                <div class="name italicize">Kim Foxx</div>
-                <div class="position italicize">State’s Attorney</div>
-                <div class="agency italicize">Cook County</div>
+                <div class="name strong">Kim Foxx</div>
+                <div class="position strong">State’s Attorney</div>
+                <div class="agency strong">Cook County</div>
 
                 <div class="designee">Designees:</div>
                 <div class="name-actual">Jennifer Gonzalez</div>
@@ -517,9 +517,7 @@ ol.memberList li {
 .name {
     margin-top: 5px
 }
-.italicize {
-    font-style: italic;
-}
+
 .second {
     margin-top: 10px
 }
@@ -562,4 +560,6 @@ a:hover,
     color: #888;
     text-transform: uppercase
 }
+
+.strong{font-weight: 900}
 </style>

@@ -406,6 +406,47 @@
   <div class="title"><a href="/static/pdf/IJJC%20-%20Fact.pdf">FACT SHEET: Research study and recommendations to ensure the effective treatment
   and supervision of juveniles adjudicated delinquent for a sex offense&nbsp;&raquo;</a></div>
   <div class="agency">Illinois Juvenile Justice Commission</div></li>
+
+  <li>
+  <div class="title"><a href="/static/pdf/USDeptOfJustice_SexOffenderGuidelines.pdf">The National Guidelines For Sex Offender Registration And Notification&nbsp;&raquo;</a></div>
+  <div class="agency">U.S. Department of Justice</div>
+  <div class="agency">Office of the Attorney General</div>
+
+</li>
+
+
+<li>
+<div class="title"><a href="/static/pdf/USDOJ_SOMAPI_Full Report.pdf">
+  Sex Offender Management Assessment And Planning Initiative
+  &nbsp;&raquo;</a></div>
+<div class="agency">U.S. Department of Justice</div>
+<div class="agency">Office of Justice Programs</div>
+<div class="agency">Office of Sex Offender Sentencing, Monitoring, Apprehending, Registering, and Tracking</div>
+
+</li>
+
+<li>
+<div class="title"><a href="/static/pdf/RecidivismofAdultSexualOffenders_RogerP.PDF">
+  Recidivism of Adult Sexual Offenders
+  &nbsp;&raquo;</a></div>
+<div class="agency">U.S. Department of Justice</div>
+<div class="agency">Office of Justice Programs</div>
+<div class="agency">Office of Sex Offender Sentencing, Monitoring, Apprehending, Registering, and Tracking</div>
+
+</li>
+
+<li>
+<div class="title"><a href="/static/pdf/TheEffectivenessofTreatmentforAdultSexualOffenders_RogerP.PDF">
+  The Effectiveness of Treatment for Adult Sexual Offenders
+  &nbsp;&raquo;</a></div>
+<div class="agency">U.S. Department of Justice</div>
+<div class="agency">Office of Justice Programs</div>
+<div class="agency">Office of Sex Offender Sentencing, Monitoring, Apprehending, Registering, and Tracking</div>
+
+</li>
+
+
+
   </ul>
 
           </div>
@@ -418,6 +459,8 @@
 
 <script>
 import metaInfo from 'meta'
+
+
 export default {
 
   mounted() {

@@ -10,6 +10,7 @@
     "build:report": "npm run build --report",
     "build:prerender": "npm run build --prerender",
     "build:serve": "npm run build --prerender && npm run server",
+    "remove": "rimraf npm-debug*",
     "start": "node build/build.js",
     "clean": "htmlclean ./dist -o ./dist",
     "server": "serve ./dist --static"

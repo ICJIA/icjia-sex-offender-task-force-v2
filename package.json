@@ -11,7 +11,7 @@
     "build:prerender": "npm run build --prerender",
     "build:serve": "npm run build --prerender && npm run server",
     "remove": "rimraf npm-debug*",
-    "start": "node build/build.js",
+    "start": "serve ./dist --static",
     "clean": "htmlclean ./dist -o ./dist",
     "server": "serve ./dist --static"
   },

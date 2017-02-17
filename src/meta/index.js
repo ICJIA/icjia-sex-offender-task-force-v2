@@ -12,7 +12,9 @@ module.exports = {
     { property: "article:author", content: "https://www.facebook.com/ICJIA" },
     { property: "og:image", content: "https://soortf.icjia.cloud/static/facebook/soortf-small.jpg" },
   ],
-  script: [],
+  script: [
+    {src: "/static/google/ga.js"}
+  ],
   link: [
     {rel: "icon", type: "image/png", sizes: "192x192",  href: '/static/icons/android-icon-192x192.png?v=1440170181'},
     {rel: "icon", type: "image/png", sizes: "32x32",  href: '/static/icons/favicon-32x32.png?v=1440170181'},

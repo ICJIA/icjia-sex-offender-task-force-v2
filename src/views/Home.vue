@@ -378,11 +378,21 @@
         </div>
         <div class="row">
           <div class="col-sm-12 col-md-6">
+
+            <div class="meeting">
+              <div class="time">March 10, 2017</div>
+              <div class="materials">
+                <a href="/static/pdf/AGENDA Sex Offenses and Sex Offender Task Force Meeting March 10 2017.pdf">Agenda</a>
+                | <span class="notAvailable">Minutes</span></div>
+            </div>
           <div class="meeting">
             <div class="time">January 23, 2017</div>
             <div class="materials">
               <a href="/static/pdf/AGENDA Sex Offenses and Sex Offender Task Force Meeting 1 23 2017.pdf">Agenda</a>
-              | <span class="notAvailable">Minutes</span></div>
+              | <a href="/static/pdf/SO and SOR Task Force meeting minutes Jan 23 2017.pdf">Minutes</a>
+
+
+            </div>
           </div>
 
           <div class="meeting">

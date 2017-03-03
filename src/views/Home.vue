@@ -379,6 +379,10 @@
         <div class="row">
           <div class="col-sm-12 col-md-6">
 
+
+
+
+
             <div class="meeting">
               <div class="time">March 10, 2017</div>
               <div class="materials">
@@ -399,6 +403,43 @@
             <div class="time">December 5, 2016</div>
             <div class="materials"> <a href="/static/pdf/AGENDA Sex Offenses and Sex Offender Task Force Meeting 12 5  16.pdf">Agenda</a> | <a href="/static/pdf/SO and SOR Task Force meeting minutes Dec 5 2016 rev Jan 12 17.pdf">Minutes</a></div>
           </div>
+
+          <div class="card" style="margin-bottom: 30px">
+<div class="card-block">
+  <p><strong>UPCOMING MEETINGS</strong></p>
+  <ul>
+    <li>
+  Friday, March 10th from 9:00 a.m. – 1:00 p.m.<br>
+  Recidivism and Treatment</li>
+
+  <li>Wednesday, April 19th from 1:00-5:00 p.m.<br>
+  Risk Assessment</li>
+
+  <li>Wednesday, May 3rd from 1:00-5:00 p.m.<br>
+  Illinois Sex Offender Registry and Notification</li>
+
+  <li>Wednesday, June 14th from 1:00-5:00 p.m.</li>
+</ul>
+
+  <p><strong>Three video conferencing sites for these meetings:</strong></p>
+  <ul>
+    <li>Chicago - Thompson Center, 100 W Randolph St, Room 16-504</li>
+  <li>Springfield – Capitol City Training Center, 130 W Mason St., Room 104</li>
+  <li>Marion – HFS, 3419 Professional Park Drive</li>
+</ul>
+
+  <p><strong>Call-in option for all meetings:</strong></p>
+  <ul>
+    <li>
+  1-888-494-4032</li>
+  <li>Passcode:  7640884751</li>
+</ul>
+</div>
+</div>
+
+
+
+
 
           </div>
           <div class="col-sm-12 col-md-6">
@@ -458,6 +499,8 @@
 
 
   </ul>
+
+
 
           </div>
         </div>

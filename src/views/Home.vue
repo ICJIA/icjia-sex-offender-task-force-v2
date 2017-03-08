@@ -387,7 +387,10 @@
               <div class="time">March 10, 2017</div>
               <div class="materials">
                 <a href="/static/pdf/AGENDA Sex Offenses and Sex Offender Task Force Meeting March 10 2017.pdf">Agenda</a>
-                | <span class="notAvailable">Minutes</span></div>
+                | <a href="/static/powerpoint/Recidivism and Treatment - Adult Sex Offenders - Przbylski.pptx">Powerpoint 1</a> | <a href="/static/powerpoint/Recidivism in IL - Sheridan.pptx">Powerpoint 2</a>
+
+
+              </div>
             </div>
           <div class="meeting">
             <div class="time">January 23, 2017</div>

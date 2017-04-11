@@ -379,7 +379,14 @@
         <div class="row">
           <div class="col-sm-12 col-md-6">
 
+            <div class="meeting">
+              <div class="time">April 19, 2017</div>
+              <div class="materials">
+                <a href="/static/pdf/AGENDA Sex Offenses and Sex Offender Task Force Meeting April 19 2017.pdf">
+                  Agenda</a>
 
+              </div>
+            </div>
 
 
 

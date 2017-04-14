@@ -383,7 +383,7 @@
               <div class="time">April 19, 2017</div>
               <div class="materials">
                 <a href="/static/pdf/AGENDA Sex Offenses and Sex Offender Task Force Meeting April 19 2017.pdf">
-                  Agenda</a>
+                  Agenda</a>&nbsp;|&nbsp;<a href="/static/powerpoint/RKHanson_IllinoisTaskForceSO_risk20170419.ppt">Powerpoint</a>&nbsp;|&nbsp;<a href="/static/word/SO Task Force AprilMeeting_PolicyDiscussion_20170411.docx">Policy Discussion</a>
 
               </div>
             </div>
@@ -394,7 +394,8 @@
               <div class="time">March 10, 2017</div>
               <div class="materials">
                 <a href="/static/pdf/AGENDA Sex Offenses and Sex Offender Task Force Meeting March 10 2017.pdf">Agenda</a>
-                | <a href="/static/powerpoint/Recidivism and Treatment - Adult Sex Offenders - Przbylski.pptx">Powerpoint 1</a> | <a href="/static/powerpoint/Recidivism in IL - Sheridan.pptx">Powerpoint 2</a>
+                |&nbsp;<a href="static/pdf/SO and SOR Task Force meeting minutes March 10 2017.pdf">Minutes</a>&nbsp;|&nbsp;
+                <a href="/static/powerpoint/Recidivism and Treatment - Adult Sex Offenders - Przbylski.pptx">Powerpoint 1</a> | <a href="/static/powerpoint/Recidivism in IL - Sheridan.pptx">Powerpoint 2</a>
 
 
               </div>

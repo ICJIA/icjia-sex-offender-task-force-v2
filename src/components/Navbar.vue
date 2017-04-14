@@ -28,7 +28,7 @@
      <div class="navbar navbar-light bg-faded" id="navbar">
        <div class="">
          <a href="/" class="navbar-brand"><span id="brand-illinois">ILLINOIS</span>
-           <span id="divider">|</span><span id="brand-soort">Sex Offenses & Offender Registration Task Force<span>
+           <span id="divider">|</span><span id="brand-soort">Sex Offenses & Offender Registration Task Force</span>
            </a>
 
 

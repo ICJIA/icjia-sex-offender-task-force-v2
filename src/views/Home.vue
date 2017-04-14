@@ -203,7 +203,7 @@
 
               </li>
 
-              <ol>
+            </ol>
 
 
 
@@ -415,7 +415,7 @@
               <a href="/static/pdf/AGENDA Sex Offenses and Sex Offender Task Force Meeting 12 5  16.pdf">Agenda</a>
               |
               <a href="/static/pdf/SO and SOR Task Force meeting minutes Dec 5 2016 rev Jan 12 17.pdf">Minutes</a>
-            &nbsp;|&nbsp;<a href="/static/powerpoint/SO_Task Force ICJIAFullPOWERPOINT_20161205.pptx">Powerpoint 1</div>
+            &nbsp;|&nbsp;<a href="/static/powerpoint/SO_Task Force ICJIAFullPOWERPOINT_20161205.pptx">Powerpoint 1</a></div>
           </div>
 
           <div class="card" style="margin-bottom: 30px">

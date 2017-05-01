@@ -380,10 +380,39 @@
           <div class="col-sm-12 col-md-6">
 
             <div class="meeting">
+              <div class="time">Ma 3, 2017</div>
+              <div class="materials">
+                <a href="/static/pdf/AGENDA Sex Offenses and Sex Offender Task Force Meeting May 3 2017.pdf">
+                  Agenda</a>
+                  &nbsp;|&nbsp;
+                  <a href="/static/pdf/IL Residence Restriction and Sex Offender Registration & Notification by Chris Lobanov-Rostovsky, Program Manager of Colorado Sex Offender Management Board (2).pdf">
+                    PDF 1</a>
+                    &nbsp;|&nbsp;
+                    <a href="/static/pdf/Policy Discussion Memo.pdf">
+                      PDF 2</a>
+                      &nbsp;|&nbsp;
+                      <a href="/static/pdf/Research Recap and Policy Discussion.pdf">
+                        PDF 3</a>
+                        &nbsp;|&nbsp;
+                        <a href="/static/pdf/Sex Offender Risk, Treatment, and Registration Research and Policy Summary.pdf">
+                          PDF 4</a>
+                          &nbsp;|&nbsp;
+                          <a href="/static/pdf/Sex Offenses and Sex Offender Task Force May 3 2017 mtg memo.pdf">
+                            PDF 5</a>
+
+              </div>
+            </div>
+
+
+            <div class="meeting">
               <div class="time">April 19, 2017</div>
               <div class="materials">
                 <a href="/static/pdf/AGENDA Sex Offenses and Sex Offender Task Force Meeting April 19 2017.pdf">
-                  Agenda</a>&nbsp;|&nbsp;<a href="/static/powerpoint/RKHanson_IllinoisTaskForceSO_risk20170419.ppt">Powerpoint</a>&nbsp;|&nbsp;<a href="/static/word/SO Task Force AprilMeeting_PolicyDiscussion_20170411.docx">Policy Discussion</a>
+                  Agenda</a>&nbsp;|&nbsp;
+                  <a href="/static/pdf/SO and SOR Task Force meeting minutes April 19 2017.pdf">Minutes</a>
+                  &nbsp;|&nbsp;
+
+                  <a href="/static/powerpoint/RKHanson_IllinoisTaskForceSO_risk20170419.ppt">Powerpoint</a>&nbsp;|&nbsp;<a href="/static/word/SO Task Force AprilMeeting_PolicyDiscussion_20170411.docx">Policy Discussion</a>
 
               </div>
             </div>

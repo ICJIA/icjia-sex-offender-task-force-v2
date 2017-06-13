@@ -379,12 +379,38 @@
         <div class="row">
           <div class="col-sm-12 col-md-6">
 
+
             <div class="meeting">
-              <div class="time">Ma 3, 2017</div>
+              <div class="time">June 14, 2017</div>
+              <div class="materials">
+                <a href="/static/documents/AGENDA Sex Offenses and Sex Offender Task Force Meeting June 14 2017.pdf">
+                  Agenda</a>
+                  &nbsp;|&nbsp;
+                  <a href="/static/documents/SOTaskForceJuneMeeting_PolicyDiscussion_20170614.pdf">
+                    PDF</a>
+                    &nbsp;|&nbsp;
+
+                      <a href="/static/documents/SO_TaskForceICJIA_Powerpoint_RecapAndPolicy_20170614.pptx">
+                        Powerpoint</a>
+
+
+
+              </div>
+            </div>
+
+
+
+
+
+            <div class="meeting">
+              <div class="time">May 3, 2017</div>
               <div class="materials">
                 <a href="/static/pdf/AGENDA Sex Offenses and Sex Offender Task Force Meeting May 3 2017.pdf">
                   Agenda</a>
                   &nbsp;|&nbsp;
+                  <a href="/static/documents/SO and SOR Task Force meeting minutes May 3 2017.pdf">
+                    Minutes</a>
+  &nbsp;|&nbsp;
                   <a href="/static/pdf/IL Residence Restriction and Sex Offender Registration & Notification by Chris Lobanov-Rostovsky, Program Manager of Colorado Sex Offender Management Board (2).pdf">
                     PDF 1</a>
                     &nbsp;|&nbsp;
@@ -402,6 +428,13 @@
 
               </div>
             </div>
+
+
+
+
+
+
+
 
 
             <div class="meeting">

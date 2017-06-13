@@ -387,8 +387,12 @@
                   Agenda</a>
                   &nbsp;|&nbsp;
                   <a href="/static/documents/SOTaskForceJuneMeeting_PolicyDiscussion_20170614.pdf">
-                    PDF</a>
+                    PDF 1</a>
                     &nbsp;|&nbsp;
+                    <a href="/static/documents/StateSOMBInformationMemo_20170614 (002).pdf">
+                      PDF 2</a>
+                      &nbsp;|&nbsp;
+
 
                       <a href="/static/documents/SO_TaskForceICJIA_Powerpoint_RecapAndPolicy_20170614.pptx">
                         Powerpoint</a>

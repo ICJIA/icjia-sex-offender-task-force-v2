@@ -485,7 +485,7 @@
             &nbsp;|&nbsp;<a href="/static/powerpoint/SO_Task Force ICJIAFullPOWERPOINT_20161205.pptx">Powerpoint 1</a></div>
           </div>
 
-          <div class="card" style="margin-bottom: 30px">
+          <!-- <div class="card" style="margin-bottom: 30px">
 <div class="card-block">
   <p><strong>UPCOMING MEETINGS</strong></p>
   <ul>
@@ -516,7 +516,7 @@
   <li>Passcode:  7640884751</li>
 </ul>
 </div>
-</div>
+</div> -->
 
 
 

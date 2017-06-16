@@ -244,9 +244,9 @@
                 <div class="title">A representative of a statewide organization representing Illinois police chiefs, appointed by the Executive
   Director of the Authority:</div>
 
-                <div class="name-actual">Greg Sullivan</div>
+                <div class="name-actual">Ed Wojcicki</div>
                 <div class="position-actual">Executive Director</div>
-                <div class="agency-actual">Illinois Sheriff Association</div>
+                <div class="agency-actual">Illinois Association of Chiefs of Police</div>
 
               </li>
 

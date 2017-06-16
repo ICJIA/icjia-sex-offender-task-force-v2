@@ -192,7 +192,7 @@
               </li>
 
 
-              <li>
+              <!-- <li>
                 <div class="title"> A representative of a statewide organization
                   representing probation and court services agencies in this State,
                   appointed by the Executive Director of the Authority:</div>
@@ -201,7 +201,7 @@
                 <div class="position-actual">Director</div>
                 <div class="agency-actual">Administrative Office of the Illinois Courts (AOIC)</div>
 
-              </li>
+              </li> -->
 
             </ol>
 
@@ -214,7 +214,7 @@
 
 
           <div class="col-sm-12 col-md-6">
-            <ol class="memberList" start="14">
+            <ol class="memberList" start="13">
 
               <li>
                 <div class="title"> A representative of a statewide organization

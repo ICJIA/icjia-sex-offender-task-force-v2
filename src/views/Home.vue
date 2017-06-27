@@ -379,111 +379,172 @@
         <div class="row">
           <div class="col-sm-12 col-md-6">
 
+            <div class="card">
+  <div class="card-header">
+    NEXT MEETING
+  </div>
+  <div class="card-block">
+    <h5 class="card-title" style="font-size: 16px">Monday, July 17th from 9:00 a.m. – 1:00 p.m.</h5>
+    <p class="card-text">
 
-            <div class="meeting">
-              <div class="time">June 14, 2017</div>
-              <div class="materials">
-                <a href="/static/documents/AGENDA Sex Offenses and Sex Offender Task Force Meeting June 14 2017.pdf">
-                  Agenda</a>
+      <h5 id="we-have-three-video-conferencing-sites" style="margin-top: 50px; font-size: 16px; padding-bottom: 10px; border-bottom: 1px solid #ccc; color: #666;">Three video conferencing sites:</h5>
+
+      <ul>
+      <li>Chicago - Thompson Center, 100 W Randolph St, Room 16-504</li>
+      <li>Springfield – Capitol City Training Center, 130 W Mason St., Room 104</li>
+      <li>Marion – HFS, 3419 Professional Park Drive</li>
+      </ul>
+
+      <h5 id="there-is-also-a-teleconference-option" style="margin-top: 30px; font-size: 16px; padding-bottom: 10px; border-bottom: 1px solid #ccc; color: #666;"> Teleconference option:</h5>
+
+      <ul>
+      <li>Call-in number: 1-888-494-4032</li>
+      <li>Passcode: 5989681313</li>
+      </ul>
+    </p>
+
+  </div>
+</div>
+
+
+<div class="card" style="margin-top: 50px;">
+  <div class="card-header">
+    PREVIOUS MEETINGS
+  </div>
+  <div class="card-block">
+    <!-- <h4 class="card-title">Special title treatment</h4> -->
+    <p class="card-text" style="margin-top: -30px">
+
+
+      <div class="meeting" style="margin-top: 50px;">
+        <div class="time">June 14, 2017</div>
+        <div class="materials">
+          <a href="/static/documents/AGENDA Sex Offenses and Sex Offender Task Force Meeting June 14 2017.pdf">
+            Agenda</a>
+            &nbsp;|&nbsp;
+            <a href="/static/documents/SOTaskForceJuneMeeting_PolicyDiscussion_20170614.pdf">
+              PDF 1</a>
+              &nbsp;|&nbsp;
+              <a href="/static/documents/StateSOMBInformationMemo_20170614 (002).pdf">
+                PDF 2</a>
+                &nbsp;|&nbsp;
+
+
+                <a href="/static/documents/SO_TaskForceICJIA_Powerpoint_RecapAndPolicy_20170614.pptx">
+                  Powerpoint</a>
+
+
+
+        </div>
+      </div>
+
+
+
+
+
+      <div class="meeting">
+        <div class="time">May 3, 2017</div>
+        <div class="materials">
+          <a href="/static/pdf/AGENDA Sex Offenses and Sex Offender Task Force Meeting May 3 2017.pdf">
+            Agenda</a>
+            &nbsp;|&nbsp;
+            <a href="/static/documents/SO and SOR Task Force meeting minutes May 3 2017.pdf">
+              Minutes</a>
+&nbsp;|&nbsp;
+            <a href="/static/pdf/IL Residence Restriction and Sex Offender Registration & Notification by Chris Lobanov-Rostovsky, Program Manager of Colorado Sex Offender Management Board (2).pdf">
+              PDF 1</a>
+              &nbsp;|&nbsp;
+              <a href="/static/pdf/Policy Discussion Memo.pdf">
+                PDF 2</a>
+                &nbsp;|&nbsp;
+                <a href="/static/pdf/Research Recap and Policy Discussion.pdf">
+                  PDF 3</a>
                   &nbsp;|&nbsp;
-                  <a href="/static/documents/SOTaskForceJuneMeeting_PolicyDiscussion_20170614.pdf">
-                    PDF 1</a>
+                  <a href="/static/pdf/Sex Offender Risk, Treatment, and Registration Research and Policy Summary.pdf">
+                    PDF 4</a>
                     &nbsp;|&nbsp;
-                    <a href="/static/documents/StateSOMBInformationMemo_20170614 (002).pdf">
-                      PDF 2</a>
-                      &nbsp;|&nbsp;
+                    <a href="/static/pdf/Sex Offenses and Sex Offender Task Force May 3 2017 mtg memo.pdf">
+                      PDF 5</a>
 
-
-                      <a href="/static/documents/SO_TaskForceICJIA_Powerpoint_RecapAndPolicy_20170614.pptx">
-                        Powerpoint</a>
-
-
-
-              </div>
-            </div>
+        </div>
+      </div>
 
 
 
 
 
-            <div class="meeting">
-              <div class="time">May 3, 2017</div>
+
+
+
+
+      <div class="meeting">
+        <div class="time">April 19, 2017</div>
+        <div class="materials">
+          <a href="/static/pdf/AGENDA Sex Offenses and Sex Offender Task Force Meeting April 19 2017.pdf">
+            Agenda</a>&nbsp;|&nbsp;
+            <a href="/static/pdf/SO and SOR Task Force meeting minutes April 19 2017.pdf">Minutes</a>
+            &nbsp;|&nbsp;
+
+            <a href="/static/powerpoint/RKHanson_IllinoisTaskForceSO_risk20170419.ppt">Powerpoint</a>&nbsp;|&nbsp;<a href="/static/word/SO Task Force AprilMeeting_PolicyDiscussion_20170411.docx">Policy Discussion</a>
+
+        </div>
+      </div>
+
+
+
+      <div class="meeting">
+        <div class="time">March 10, 2017</div>
+        <div class="materials">
+          <a href="/static/pdf/AGENDA Sex Offenses and Sex Offender Task Force Meeting March 10 2017.pdf">Agenda</a>
+          |&nbsp;<a href="static/pdf/SO and SOR Task Force meeting minutes March 10 2017.pdf">Minutes</a>&nbsp;|&nbsp;
+          <a href="/static/powerpoint/Recidivism and Treatment - Adult Sex Offenders - Przbylski.pptx">Powerpoint 1</a> | <a href="/static/powerpoint/Recidivism in IL - Sheridan.pptx">Powerpoint 2</a>
+
+
+        </div>
+      </div>
+    <div class="meeting">
+      <div class="time">January 23, 2017</div>
+      <div class="materials">
+        <a href="/static/pdf/AGENDA Sex Offenses and Sex Offender Task Force Meeting 1 23 2017.pdf">Agenda</a>
+        | <a href="/static/pdf/SO and SOR Task Force meeting minutes Jan 23 2017.pdf">Minutes</a>
+        | <a href="/static/powerpoint/Juvenile Justice Commission Report Presentation SO Task Force_20170123.pptx">Powerpoint 1</a>
+
+      </div>
+    </div>
+
+    <div class="meeting">
+      <div class="time">December 5, 2016</div>
+      <div class="materials">
+        <a href="/static/pdf/AGENDA Sex Offenses and Sex Offender Task Force Meeting 12 5  16.pdf">Agenda</a>
+        |
+        <a href="/static/pdf/SO and SOR Task Force meeting minutes Dec 5 2016 rev Jan 12 17.pdf">Minutes</a>
+      &nbsp;|&nbsp;<a href="/static/powerpoint/SO_Task Force ICJIAFullPOWERPOINT_20161205.pptx">Powerpoint 1</a></div>
+    </div>
+
+
+
+    </p>
+  
+  </div>
+</div>
+
+
+
+
+            <!-- <div class="meeting">
+              <div class="time">July 17, 2017</div>
               <div class="materials">
-                <a href="/static/pdf/AGENDA Sex Offenses and Sex Offender Task Force Meeting May 3 2017.pdf">
-                  Agenda</a>
-                  &nbsp;|&nbsp;
-                  <a href="/static/documents/SO and SOR Task Force meeting minutes May 3 2017.pdf">
-                    Minutes</a>
-  &nbsp;|&nbsp;
-                  <a href="/static/pdf/IL Residence Restriction and Sex Offender Registration & Notification by Chris Lobanov-Rostovsky, Program Manager of Colorado Sex Offender Management Board (2).pdf">
-                    PDF 1</a>
-                    &nbsp;|&nbsp;
-                    <a href="/static/pdf/Policy Discussion Memo.pdf">
-                      PDF 2</a>
-                      &nbsp;|&nbsp;
-                      <a href="/static/pdf/Research Recap and Policy Discussion.pdf">
-                        PDF 3</a>
-                        &nbsp;|&nbsp;
-                        <a href="/static/pdf/Sex Offender Risk, Treatment, and Registration Research and Policy Summary.pdf">
-                          PDF 4</a>
-                          &nbsp;|&nbsp;
-                          <a href="/static/pdf/Sex Offenses and Sex Offender Task Force May 3 2017 mtg memo.pdf">
-                            PDF 5</a>
 
-              </div>
-            </div>
+                  Agenda
 
 
-
-
-
-
-
-
-
-            <div class="meeting">
-              <div class="time">April 19, 2017</div>
-              <div class="materials">
-                <a href="/static/pdf/AGENDA Sex Offenses and Sex Offender Task Force Meeting April 19 2017.pdf">
-                  Agenda</a>&nbsp;|&nbsp;
-                  <a href="/static/pdf/SO and SOR Task Force meeting minutes April 19 2017.pdf">Minutes</a>
-                  &nbsp;|&nbsp;
-
-                  <a href="/static/powerpoint/RKHanson_IllinoisTaskForceSO_risk20170419.ppt">Powerpoint</a>&nbsp;|&nbsp;<a href="/static/word/SO Task Force AprilMeeting_PolicyDiscussion_20170411.docx">Policy Discussion</a>
-
-              </div>
-            </div>
-
-
-
-            <div class="meeting">
-              <div class="time">March 10, 2017</div>
-              <div class="materials">
-                <a href="/static/pdf/AGENDA Sex Offenses and Sex Offender Task Force Meeting March 10 2017.pdf">Agenda</a>
-                |&nbsp;<a href="static/pdf/SO and SOR Task Force meeting minutes March 10 2017.pdf">Minutes</a>&nbsp;|&nbsp;
-                <a href="/static/powerpoint/Recidivism and Treatment - Adult Sex Offenders - Przbylski.pptx">Powerpoint 1</a> | <a href="/static/powerpoint/Recidivism in IL - Sheridan.pptx">Powerpoint 2</a>
 
 
               </div>
-            </div>
-          <div class="meeting">
-            <div class="time">January 23, 2017</div>
-            <div class="materials">
-              <a href="/static/pdf/AGENDA Sex Offenses and Sex Offender Task Force Meeting 1 23 2017.pdf">Agenda</a>
-              | <a href="/static/pdf/SO and SOR Task Force meeting minutes Jan 23 2017.pdf">Minutes</a>
-              | <a href="/static/powerpoint/Juvenile Justice Commission Report Presentation SO Task Force_20170123.pptx">Powerpoint 1</a>
+            </div> -->
 
-            </div>
-          </div>
 
-          <div class="meeting">
-            <div class="time">December 5, 2016</div>
-            <div class="materials">
-              <a href="/static/pdf/AGENDA Sex Offenses and Sex Offender Task Force Meeting 12 5  16.pdf">Agenda</a>
-              |
-              <a href="/static/pdf/SO and SOR Task Force meeting minutes Dec 5 2016 rev Jan 12 17.pdf">Minutes</a>
-            &nbsp;|&nbsp;<a href="/static/powerpoint/SO_Task Force ICJIAFullPOWERPOINT_20161205.pptx">Powerpoint 1</a></div>
-          </div>
+
 
           <!-- <div class="card" style="margin-bottom: 30px">
 <div class="card-block">
@@ -584,6 +645,18 @@ SMART Office 2016 National Symposium
 <div class="agency"><a href="https://www.smart.gov/symposium.htm">https://www.smart.gov/symposium.htm</a></div>
 
 </li>
+
+<li><p>Sex Off ender Management Policy in the States from The Council of State Governments  <a href="http://www.csg.org/policy/documents/SOMFinalReport-FINAL.pdf">http://www.csg.org/policy/documents/SOMFinalReport-FINAL.pdf</a></p></li>
+<li><p>Sex Offender Registration and Notification in the United States: <br>
+Current Case Law and Issues <br>
+December 2016 <br>
+Department of Justice, Office of Sex Offender Sentencing, Monitoring, Apprehending, Registering and Tracking <br>
+<a href="https://www.smart.gov/caselaw/2016-final-case-law-update-with-index-cover.pdf">https://www.smart.gov/caselaw/2016-final-case-law-update-with-index-cover.pdf</a></p></li>
+<li><p>Sex Offense Courts:  Supporting Victim and Community Safety Through Collaboration <br>
+Center for Court Innovation <br>
+<a href="http://www.courtinnovation.org/sites/default/files/Sex_Offense_Courts.pdf">http://www.courtinnovation.org/sites/default/files/Sex_Offense_Courts.pdf</a></p></li>
+<li><p>Center for Sex Offender Management <br>
+<a href="http://www.csom.org/">http://www.csom.org/</a></p></li>
 
 
 

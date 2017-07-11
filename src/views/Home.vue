@@ -163,8 +163,8 @@
                 <div class="title">A representative of a statewide organization against sexual assault, appointed by the Executive Director of the Authority:</div>
 
                 <div class="name-actual">Lynne Johnson</div>
-                <div class="position-actual">Policy Director</div>
-                <div class="agency-actual">Chicago Alliance Against Sexual Exploitation (CAASE)</div>
+                <!-- <div class="position-actual">Policy Director</div>
+                <div class="agency-actual">Chicago Alliance Against Sexual Exploitation (CAASE)</div> -->
 
               </li>
 
@@ -384,10 +384,11 @@
     NEXT MEETING
   </div>
   <div class="card-block">
-    <h5 class="card-title" style="font-size: 16px">Monday, July 17th from 9:00 a.m. – 1:00 p.m.</h5>
+    <h5 class="card-title" style="font-size: 16px">August - TIME & LOCATION TBD</h5>
+    <h5 class="card-title"> <span style="color: #aaa; font-size: 14px; text-decoration: line-through">Monday, July 17th from 9:00 a.m. – 1:00 p.m.</span>&nbsp; <span style="color: #aaa; font-size: 14px">CANCELLED</span></h5>
     <p class="card-text">
 
-      <h5 id="we-have-three-video-conferencing-sites" style="margin-top: 50px; font-size: 16px; padding-bottom: 10px; border-bottom: 1px solid #ccc; color: #666;">Three video conferencing sites:</h5>
+      <!-- <h5 id="we-have-three-video-conferencing-sites" style="margin-top: 50px; font-size: 16px; padding-bottom: 10px; border-bottom: 1px solid #ccc; color: #666;">Three video conferencing sites:</h5>
 
       <ul>
       <li>Chicago - Thompson Center, 100 W Randolph St, Room 16-504</li>
@@ -400,7 +401,7 @@
       <ul>
       <li>Call-in number: 1-888-494-4032</li>
       <li>Passcode: 5989681313</li>
-      </ul>
+      </ul> -->
     </p>
 
   </div>
@@ -524,7 +525,7 @@
 
 
     </p>
-  
+
   </div>
 </div>
 

@@ -13,13 +13,13 @@
 //   // Basic web fallback
 //   "Helvetica Neue", Arial, sans-serif !default;
 // $font-family-sans-serif: 'Lato', sans-serif;
-
-
-$font-family-sans-serif: 'Open Sans', sans-serif;
+$font-family-sans-serif: 'Open Sans',
+sans-serif;
 $body-background: #fff;
 $body-font-size: 16px;
 // $heading-font-stack: 'Roboto', sans-serif;
-$heading-font-stack: 'Montserrat', sans-serif;
+$heading-font-stack: 'Montserrat',
+sans-serif;
 $page-top-margin: 50px;
 $text-light: #eee;
 $text-dark: #444;
@@ -28,10 +28,6 @@ $hover-color: #aaa;
 $accent-dark: #000;
 $link-font-weight: 700;
 $page-top-margin: 0px;
-
-
-
-
 // Site styles //////////////////////////////////////////////////////////////////////////
 body {
     background: $body-background;
@@ -39,9 +35,11 @@ body {
     font-size: $body-font-size;
     color: $text-dark;
 }
+
 .page {
     margin-top: $page-top-margin;
 }
+
 h1,
 .h1,
 h2,
@@ -57,57 +55,72 @@ h6,
     font-family: $heading-font-stack;
     font-weight: 900;
 }
+
 a {
     color: $accent-color;
     font-weight: $link-font-weight
 }
+
 a:hover {
     color: $hover-color
 }
+
 .light {
     color: #fff
 }
+
 .dark {
     color: #333
 }
+
 .upper {
     text-transform: uppercase
 }
+
 .hrule {
     border-bottom: 1px solid #999;
     padding-bottom: 10px
 }
+
 .hrule.light {
     border-bottom: 1px solid #ccc;
     padding-bottom: 10px
 }
+
 .gutter-rule-dark {
     border-left: 1px solid #ccc
 }
+
 .section-heading {
     margin-bottom: 50px
 }
+
 button:focus {
     outline: 0;
 }
+
 .navbar {
     -webkit-box-shadow: 0 8px 6px -6px #ccc !important;
     -moz-box-shadow: 0 8px 6px -6px #ccc !important;
     box-shadow: 0 8px 6px -6px #ccc !important;
 }
+
 .text-section {
     padding-top: 50px;
     padding-bottom: 50px
 }
+
 .text-section-spacer {
     margin-top: 60px
 }
+
 .section-header {
     font-size: 30px;
     border: none;
     margin-top: 0;
     margin-bottom: 30px;
 }
+
 .section-header:after {
     content: "";
     background: $accent-dark;
@@ -116,18 +129,23 @@ button:focus {
     width: 250px;
     margin-left: -130px;
 }
+
 .section-header.text-left:after {
     margin-left: 0;
 }
+
 .section-header.text-right:after {
     // margin-left: -50px;
 }
+
 .section-header h2 {
     margin-bottom: 15px;
 }
+
 .section-header.wsub {
     margin-bottom: 10px;
 }
+
 .section-header.wsub h2 {
     margin-bottom: 17px;
 }
@@ -139,55 +157,116 @@ button:focus {
     color: #aaa;
     font-weight: 300;
 }
+
 // Navbar styles //////////////////////////////////////////////////////////
 #brand-illinois {
     font-weight: 900;
     color: #aaa;
     color: $accent-color
 }
+
 #divider {
     color: #000;
     margin-left: 8px;
     margin-right: 8px;
     font-weight: 700
 }
+
 #brand-soort {
     color: #000;
     font-weight: 400;
     text-transform: uppercase
 }
 
+.bg-about-icjia {
+    background-color: #141414
+}
 
-.bg-about-icjia {background-color: #141414}
-#navbarHeader {padding-top: 20px; padding-bottom: 20px}
-.navbar-brand {margin-left: 80px;}
+#navbarHeader {
+    padding-top: 20px;
+    padding-bottom: 20px
+}
 
+.navbar-brand {
+    margin-left: 80px;
+}
 
 // Navbar breakpoints //////////////////////////////////////////////////////
-
-@include media-breakpoint-down(md) {
-
-    #mailingList {display: none}
-
-}
-@include media-breakpoint-down(sm) {
+// @include media-breakpoint-down(md) {
+//     #mailingList {display: none}
+// }
+// @include media-breakpoint-down(sm) {
+//     .hamburger {
+//         display: none;
+//     }
+//     #brand-illinois {
+//         display: none;
+//     }
+//     #divider {
+//         display: none;
+//     }
+// #mailingList {
+//     display: none
+// }
+// .navbar-brand {
+//     font-size: 11px;
+//     margin-left: 0;
+// }
+// }
+// Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575px) {
     .hamburger {
         display: none;
     }
-
-    #brand-illinois {
-        display: none;
-    }
-
+    // #brand-illinois {
+    //     display: none;
+    // }
     #divider {
         display: none;
     }
-
-
-
-    #mailingList {display: none}
+    #mailingList {
+        display: none
+    }
     .navbar-brand {
         font-size: 11px;
         margin-left: 0;
+        font-weight: 900;
     }
 }
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) and (max-width: 767px) {
+    .hamburger {
+        display: none;
+    }
+    // #brand-illinois {
+    //     display: none;
+    // }
+    // #divider {
+    //     display: none;
+    // }
+    #mailingList {
+        display: none
+    }
+    .navbar-brand {
+        font-size: 11px;
+        margin-left: 0;
+        font-weight: 900;
+    }
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) and (max-width: 991px) {
+    .hamburger {
+        display: none;
+    }
+    #mailingList {
+        display: none
+    }
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) and (max-width: 1199px) {}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {}

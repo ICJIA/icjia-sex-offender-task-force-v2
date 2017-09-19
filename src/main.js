@@ -8,16 +8,16 @@ import Meta from 'vue-meta'
 Vue.use(Meta)
 
 
-import jquery from 'jquery'
-import tether from 'tether'
-import bootstrap from 'bootstrap'
+// import jquery from 'jquery'
+// import tether from 'tether'
+// import bootstrap from 'bootstrap'
 
 import './scss/base.scss';
 
 /* eslint-disable no-new */
 new Vue({
-  el: '#app',
-  router,
-  template: '<App/>',
-  components: { App }
+    el: '#app',
+    router,
+    template: '<App/>',
+    components: { App }
 })

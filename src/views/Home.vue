@@ -379,33 +379,49 @@
         <div class="row">
           <div class="col-sm-12 col-md-6">
 
-            <div class="card">
-  <div class="card-header">
-    NEXT MEETING
-  </div>
-  <div class="card-block">
-    <h5 class="card-title" style="font-size: 16px">August - TIME & LOCATION TBD</h5>
-    <h5 class="card-title"> <span style="color: #aaa; font-size: 14px; text-decoration: line-through">Monday, July 17th from 9:00 a.m. – 1:00 p.m.</span>&nbsp; <span style="color: #aaa; font-size: 14px">CANCELLED</span></h5>
-    <p class="card-text">
 
-      <!-- <h5 id="we-have-three-video-conferencing-sites" style="margin-top: 50px; font-size: 16px; padding-bottom: 10px; border-bottom: 1px solid #ccc; color: #666;">Three video conferencing sites:</h5>
 
-      <ul>
-      <li>Chicago - Thompson Center, 100 W Randolph St, Room 16-504</li>
-      <li>Springfield – Capitol City Training Center, 130 W Mason St., Room 104</li>
-      <li>Marion – HFS, 3419 Professional Park Drive</li>
-      </ul>
+              <div class="card">
+                  <div class="card-header">
+                      NEXT MEETING                
+                  </div>
+                  <div class="card-block">
+                    <h5 class="card-title" style="font-size: 16px">PUBLIC TESTIMONY REQUESTED ON STRENGTHENING ILLINOIS SEX OFFENDER LAW AND POLICIES      
+                      </h5>
+                    
+                    <p class="card-text">
+                      <strong></strong>
+                        <p>The Sex Offenses and Sex Offender Registration Task Force requests public testimony from people affected by state sex offender law and policy, and researchers, advocates, policy experts, and concerned citizens on how Illinois can improve its sex offender
+                            laws and policies.</p>
+                        <p>Public testimony must be germane to the Task Force’s mandate of making recommendations to improve Illinois sex offender laws and policies. Oral testimony must be limited to five minutes per person.</p>
+                        <p><strong>WHEN</strong></p>
+                        <p>Wednesday, September 20, at 10:00 a.m.</p>
+                        <p><strong>WHERE</strong></p>
+                        <p>Illinois Criminal Justice Information Authority Headquarters</p>
+                        <p>300 West Adams, Suite 200</p>
+                        <p>Chicago, Ill.</p>
+                        <p><strong>REGISTER TO TESTIFY</strong></p>
+                        <p>To provide oral testimony on September 20, all speakers must either:</p>
+                        <ul>
+                            <li>Send an email to <a href="mailto:CJA.SORTF@Illinois.gov">CJA.SORTF@Illinois.gov</a> signaling the intent to speak. Please include name, organization, and contact information. Email must be received by Tuesday, September 19.</li>
+                        </ul>
+                        <p>OR</p>
+                        <ul>
+                            <li>Sign up in person at the hearing on September 20. Speakers must sign in by 10:30 a.m. to be ensured time.</li>
+                        </ul>
+                        <p><strong>To submit written testimony:</strong></p>
+                        <p>The Task Force also requests written testimony, which can accompany or be provided in lieu of oral testimony.</p>
+                        <p>Please email written testimony to <a href="mailto:CJA.SORTF@Illinois.gov">CJA.SORTF@Illinois.gov</a> by <strong>Wednesday, September 27</strong>.</p>
+                    </p>
+                
+                  </div>
+                </div>
 
-      <h5 id="there-is-also-a-teleconference-option" style="margin-top: 30px; font-size: 16px; padding-bottom: 10px; border-bottom: 1px solid #ccc; color: #666;"> Teleconference option:</h5>
 
-      <ul>
-      <li>Call-in number: 1-888-494-4032</li>
-      <li>Passcode: 5989681313</li>
-      </ul> -->
-    </p>
 
-  </div>
-</div>
+
+
+            
 
 
 <div class="card" style="margin-top: 50px;">
@@ -674,151 +690,173 @@ Center for Court Innovation <br>
  </template>
 
 <script>
-import metaInfo from 'meta'
+    import metaInfo from 'meta'
 
 
-export default {
+    export default {
 
-  mounted() {
+        mounted() {
 
-    $(function() {
-      $("#scroll-button").click(function() {
-        $('html,body').animate({
-          scrollTop: $("#about").offset().top
-        }, 'slow');
-      });
-    });
+            $(function() {
+                $("#scroll-button").click(function() {
+                    $('html,body').animate({
+                        scrollTop: $("#about").offset().top
+                    }, 'slow');
+                });
+            });
 
-  },
+        },
 
 
-  data() {
-    return {
-      description: "Illinois Sex Offenders & Offender Registration Task Force.",
-      title: "Illinois Sex Offenders & Offender Registration Task Force",
-      path: this.$route.fullPath
+        data() {
+            return {
+                description: "Illinois Sex Offenders & Offender Registration Task Force.",
+                title: "Illinois Sex Offenders & Offender Registration Task Force",
+                path: this.$route.fullPath
+            }
+        },
+
+        metaInfo() {
+            return {
+                meta: [{
+                    vmid: 'description',
+                    name: 'description',
+                    content: this.description
+                }],
+                title: this.title
+
+            }
+        }
+
+
     }
-  },
-
-  metaInfo() {
-    return {
-      meta: [{
-        vmid: 'description',
-        name: 'description',
-        content: this.description
-      }],
-      title: this.title
-
-    }
-  }
-
-
-}
 </script>
 
 
-<style >
-.hero {
-    background: url('../assets/banner03.jpg') no-repeat center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    display: table;
-    width: 100%;
-    height: 500px !important;
-}
-.hero .container {
-    display: table-cell;
-    text-align: center;
-    vertical-align: middle;
-    height: 500px
-}
-.button-spacer {
-    margin-top: 30px
-}
-#meetingDates {
-    background: #eee;
-    border-top: 1px solid #bbb;
-    border-bottom: 1px solid #bbb
-}
-#resources {
-    background: #eee;
-    border-top: 1px solid #bbb;
-    border-bottom: 1px solid #bbb
-}
-ul li {
-    margin-top: 15px
-}
-#about {
-    background: #ededed;
-    border-top: 1px solid #eee;
-    border-bottom: 1px solid #eee
-}
-/* Member list styles */
-
-ol.memberList {
-    font-size: 14px;
-}
-ol.memberList li {
-    margin-bottom: 25px
-}
-.designee {
-    margin-top: 10px;
-    font-weight: 900
-}
-.name-actual,
-.position-actual,
-.agency-actual {
-    font-weight: 900
-}
-.name-actual,
-.name {
-    margin-top: 5px
-}
-
-.second {
-    margin-top: 10px
-}
-.vacant {} .spacer {
-    margin-top: 15px
-}
-#resourceList li {
-    margin-bottom: 35px
-}
-#resourceList li .title {
-    font-weight: 700
-}
-.title a {
-    color: #000;
-    -webkit-transition: color 150ms ease-in;
-    /*safari and chrome */
-
-    -o-transition: color 150ms ease-in;
-    /* opera */
-}
-a:hover,
-.title a:hover {
-    color: #888;
-    text-decoration: none;
-}
-.meeting {
-    margin-bottom: 30px
-}
-.time {
-    font-weight: 700
-}
-.materials a {
-    font-size: 13px;
-    text-transform: uppercase;
-    font-weight: 900 !important
-}
-.notAvailable {
-    font-size: 13px;
-    font-weight: 900;
-    color: #888;
-    text-transform: uppercase
-}
-
-.strong{font-weight: 900}
+<style>
+    .hero {
+        background: url('../assets/banner03.jpg') no-repeat center center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        display: table;
+        width: 100%;
+        height: 500px !important;
+    }
+    
+    .hero .container {
+        display: table-cell;
+        text-align: center;
+        vertical-align: middle;
+        height: 500px
+    }
+    
+    .button-spacer {
+        margin-top: 30px
+    }
+    
+    #meetingDates {
+        background: #eee;
+        border-top: 1px solid #bbb;
+        border-bottom: 1px solid #bbb
+    }
+    
+    #resources {
+        background: #eee;
+        border-top: 1px solid #bbb;
+        border-bottom: 1px solid #bbb
+    }
+    
+    ul li {
+        margin-top: 15px
+    }
+    
+    #about {
+        background: #ededed;
+        border-top: 1px solid #eee;
+        border-bottom: 1px solid #eee
+    }
+    /* Member list styles */
+    
+    ol.memberList {
+        font-size: 14px;
+    }
+    
+    ol.memberList li {
+        margin-bottom: 25px
+    }
+    
+    .designee {
+        margin-top: 10px;
+        font-weight: 900
+    }
+    
+    .name-actual,
+    .position-actual,
+    .agency-actual {
+        font-weight: 900
+    }
+    
+    .name-actual,
+    .name {
+        margin-top: 5px
+    }
+    
+    .second {
+        margin-top: 10px
+    }
+    
+    .vacant {}
+    
+    .spacer {
+        margin-top: 15px
+    }
+    
+    #resourceList li {
+        margin-bottom: 35px
+    }
+    
+    #resourceList li .title {
+        font-weight: 700
+    }
+    
+    .title a {
+        color: #000;
+        -webkit-transition: color 150ms ease-in;
+        /*safari and chrome */
+        -o-transition: color 150ms ease-in;
+        /* opera */
+    }
+    
+    a:hover,
+    .title a:hover {
+        color: #888;
+        text-decoration: none;
+    }
+    
+    .meeting {
+        margin-bottom: 30px
+    }
+    
+    .time {
+        font-weight: 700
+    }
+    
+    .materials a {
+        font-size: 13px;
+        text-transform: uppercase;
+        font-weight: 900 !important
+    }
+    
+    .notAvailable {
+        font-size: 13px;
+        font-weight: 900;
+        color: #888;
+        text-transform: uppercase
+    }
+    
+    .strong {
+        font-weight: 900
+    }
 </style>

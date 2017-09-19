@@ -8,7 +8,7 @@ import Meta from 'vue-meta'
 Vue.use(Meta)
 
 
-// import jquery from 'jquery'
+import jquery from 'jquery'
 // import tether from 'tether'
 // import bootstrap from 'bootstrap'
 

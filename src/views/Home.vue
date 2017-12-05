@@ -386,32 +386,18 @@
                       NEXT MEETING                
                   </div>
                   <div class="card-block">
-                    <h5 class="card-title" style="font-size: 16px">PUBLIC TESTIMONY REQUESTED ON STRENGTHENING ILLINOIS SEX OFFENDER LAW AND POLICIES      
-                      </h5>
+                   
                     
                     <p class="card-text">
-                      <strong></strong>
-                        <p>The Sex Offenses and Sex Offender Registration Task Force requests public testimony from people affected by state sex offender law and policy, and researchers, advocates, policy experts, and concerned citizens on how Illinois can improve its sex offender
-                            laws and policies.</p>
-                        <p>Public testimony must be germane to the Task Force’s mandate of making recommendations to improve Illinois sex offender laws and policies. Oral testimony must be limited to five minutes per person.</p>
-                        <p><strong>WHEN</strong></p>
-                        <p>Wednesday, September 20, at 10:00 a.m.</p>
-                        <p><strong>WHERE</strong></p>
-                        <p>Illinois Criminal Justice Information Authority Headquarters</p>
-                        <p>300 West Adams, Suite 200</p>
-                        <p>Chicago, Ill.</p>
-                        <p><strong>REGISTER TO TESTIFY</strong></p>
-                        <p>To provide oral testimony on September 20, all speakers must either:</p>
-                        <ul>
-                            <li>Send an email to <a href="mailto:CJA.SORTF@Illinois.gov">CJA.SORTF@Illinois.gov</a> signaling the intent to speak. Please include name, organization, and contact information. Email must be received by Tuesday, September 19.</li>
-                        </ul>
-                        <p>OR</p>
-                        <ul>
-                            <li>Sign up in person at the hearing on September 20. Speakers must sign in by 10:30 a.m. to be ensured time.</li>
-                        </ul>
-                        <p><strong>To submit written testimony:</strong></p>
-                        <p>The Task Force also requests written testimony, which can accompany or be provided in lieu of oral testimony.</p>
-                        <p>Please email written testimony to <a href="mailto:CJA.SORTF@Illinois.gov">CJA.SORTF@Illinois.gov</a> by <strong>Wednesday, September 27</strong>.</p>
+                       <strong>Sex Offenses and Sex Offender Registration Task Force</strong><br/>
+                        Wednesday December 6, 2017<br/>
+                        1:00 – 5:00 p.m.<br/>
+                        Chicago - 300 W. Adams, 2nd Floor Conference Room<br/>
+                        Call-in number: 1-888-494-4032<br/>
+                        Passcode: 7640884751<br/>
+
+                        <p><a href="/static/pdf/AGENDA Sex Offenses and Sex Offender Task Force Meeting Dec 6 2017.pdf">Download Agenda</a></p>
+                      
                     </p>
                 
                   </div>

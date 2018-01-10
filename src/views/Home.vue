@@ -400,7 +400,7 @@
 
 
 
-            <div class="card">
+            <!-- <div class="card">
               <div class="card-header">
                 NEXT MEETING
               </div>
@@ -423,7 +423,7 @@
                 </p>
 
               </div>
-            </div>
+            </div> -->
 
 
 
@@ -432,7 +432,7 @@
 
 
 
-            <div class="card" style="margin-top: 50px;">
+            <div class="card" style="margin-top: 10px;">
               <div class="card-header">
                 PREVIOUS MEETINGS
               </div>
@@ -440,8 +440,43 @@
                 <!-- <h4 class="card-title">Special title treatment</h4> -->
                 <p class="card-text" style="margin-top: -30px">
 
-
                   <div class="meeting" style="margin-top: 50px;">
+                    <div class="time">December 6, 2017</div>
+                    <div class="materials">
+                      <a href="/static/pdf/AGENDA Sex Offenses and Sex Offender Task Force Meeting Dec 6 2017.pdf">
+                        Agenda</a>
+
+
+                    </div>
+                  </div>
+
+
+                  <div class="meeting" style="">
+                    <div class="time">September 20, 2017</div>
+                    <div class="materials">
+                      <a href="/static/pdf/2017-09-20 SORTF testimonies 2.pdf">
+                        Testimonies</a>
+
+
+                    </div>
+                  </div>
+
+
+                  <div class="meeting" style="">
+                    <div class="time">July 17, 2017</div>
+                    <div class="materials">
+                      <a href="/static/pdf/AGENDA Sex Offenses and Sex Offender Task Force Meeting July 17 2017.pdf">
+                        Agenda</a>
+                      &nbsp;|&nbsp;
+                      <a href="/static/pdf/SOMeetingSummary_20170614.pdf">
+                        Materials</a>
+
+
+                    </div>
+                  </div>
+
+
+                  <div class="meeting" style="">
                     <div class="time">June 14, 2017</div>
                     <div class="materials">
                       <a href="/static/documents/AGENDA Sex Offenses and Sex Offender Task Force Meeting June 14 2017.pdf">
@@ -834,6 +869,7 @@
     border-top: 1px solid #eee;
     border-bottom: 1px solid #eee
   }
+
   /* Member list styles */
 
   ol.memberList {
@@ -916,5 +952,4 @@
   .strong {
     font-weight: 900
   }
-
 </style>
